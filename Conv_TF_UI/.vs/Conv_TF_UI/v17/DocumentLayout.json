@@ -1,0 +1,499 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\class\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\class\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\auto_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\auto_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|c:\\users\\ducbu\\onedrive\\28. \u0111\u1EE9c rnd\\04.shiv12\\09.bang tai chuyen thung\\connect_kanban\\conv_tf_ui\\robot_3_axis_ui\\class\\log_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\class\\log_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\class\\items_error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\class\\items_error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\class\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\class\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\class\\iplc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\class\\iplc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|c:\\users\\ducbu\\onedrive\\28. \u0111\u1EE9c rnd\\04.shiv12\\09.bang tai chuyen thung\\connect_kanban\\conv_tf_ui\\robot_3_axis_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\m_cum1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\m_cum1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Conveyer_UI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|c:\\users\\ducbu\\onedrive\\28. \u0111\u1EE9c rnd\\04.shiv12\\09.bang tai chuyen thung\\connect_kanban\\conv_tf_ui\\robot_3_axis_ui\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|c:\\users\\ducbu\\onedrive\\28. \u0111\u1EE9c rnd\\04.shiv12\\09.bang tai chuyen thung\\connect_kanban\\conv_tf_ui\\robot_3_axis_ui\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|c:\\users\\ducbu\\onedrive\\28. \u0111\u1EE9c rnd\\04.shiv12\\09.bang tai chuyen thung\\connect_kanban\\conv_tf_ui\\robot_3_axis_ui\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|c:\\users\\ducbu\\onedrive\\28. \u0111\u1EE9c rnd\\04.shiv12\\09.bang tai chuyen thung\\connect_kanban\\conv_tf_ui\\robot_3_axis_ui\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|c:\\users\\ducbu\\onedrive\\28. \u0111\u1EE9c rnd\\04.shiv12\\09.bang tai chuyen thung\\connect_kanban\\conv_tf_ui\\robot_3_axis_ui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\class\\socketio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\class\\socketio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\class\\update_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\class\\update_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\class\\ur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\class\\ur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|c:\\users\\ducbu\\onedrive\\28. \u0111\u1EE9c rnd\\04.shiv12\\09.bang tai chuyen thung\\connect_kanban\\conv_tf_ui\\robot_3_axis_ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|c:\\users\\ducbu\\onedrive\\28. \u0111\u1EE9c rnd\\04.shiv12\\09.bang tai chuyen thung\\connect_kanban\\conv_tf_ui\\robot_3_axis_ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\manual_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\manual_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\manual_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\manual_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\setting_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\setting_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\setting_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\setting_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\style\\txb_style.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\style\\txb_style.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\auto_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\auto_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\robot_3_axis_ui\\history_log_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\history_log_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|c:\\users\\ducbu\\onedrive\\28. \u0111\u1EE9c rnd\\04.shiv12\\09.bang tai chuyen thung\\connect_kanban\\conv_tf_ui\\robot_3_axis_ui\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|031911c8-6148-4e25-b1b1-44bca9a0c45c"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Log_History.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\Log_History.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Class\\Log_History.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\Log_History.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Class\\Log_History.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:29:43.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowGUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:34:02.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:39:27.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\App.config",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\App.config",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\App.config",
+              "RelativeToolTip": "Robot_3_Axis_UI\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-02T11:35:15.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\App.xaml.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:35:11.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UR.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\UR.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Class\\UR.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\UR.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Class\\UR.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwEIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:55:23.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Items_Error.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\Items_Error.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Class\\Items_Error.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\Items_Error.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Class\\Items_Error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:56:27.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "M_Cum1.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\M_Cum1.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\M_Cum1.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\M_Cum1.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\M_Cum1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T03:53:21.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPLC.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\IPLC.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Class\\IPLC.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\IPLC.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Class\\IPLC.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:37:30.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\Common.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Class\\Common.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\Common.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Class\\Common.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:37:06.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto_Screen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Auto_Screen.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Auto_Screen.xaml.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Auto_Screen.xaml.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Auto_Screen.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:29:49.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Path.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\Path.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Class\\Path.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\Path.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Class\\Path.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:56:26.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:39:40.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Conveyer_UI",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Conveyer_UI.csproj",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Conveyer_UI.csproj",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Conveyer_UI.csproj",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Conveyer_UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-02T11:40:15.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Properties\\Resources.resx",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-02T11:39:42.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Properties\\Settings.settings",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-04-02T11:39:44.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:39:46.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\App.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\App.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\App.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T03:16:22.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Update_Screen.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\Update_Screen.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Class\\Update_Screen.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\Update_Screen.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Class\\Update_Screen.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:56:19.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SocketIO.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\SocketIO.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Class\\SocketIO.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Class\\SocketIO.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Class\\SocketIO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:55:57.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Setting_Screen.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Setting_Screen.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Setting_Screen.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Setting_Screen.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Setting_Screen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T02:28:20.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\MainWindow.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T07:20:16.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Setting_Screen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Setting_Screen.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Setting_Screen.xaml.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Setting_Screen.xaml.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Setting_Screen.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwD0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T02:28:19.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "txb_style.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Style\\txb_style.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Style\\txb_style.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Style\\txb_style.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Style\\txb_style.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T03:17:30.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Manual_Screen.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Manual_Screen.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Manual_Screen.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Manual_Screen.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Manual_Screen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T08:02:53.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Manual_Screen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Manual_Screen.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Manual_Screen.xaml.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Manual_Screen.xaml.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Manual_Screen.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:29:31.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Auto_Screen.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Auto_Screen.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Auto_Screen.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\Auto_Screen.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Auto_Screen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T07:16:36.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "History_Log_Screen.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\History_Log_Screen.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\History_Log_Screen.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_TF_UI\\Robot_3_Axis_UI\\History_Log_Screen.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\History_Log_Screen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T07:34:04.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

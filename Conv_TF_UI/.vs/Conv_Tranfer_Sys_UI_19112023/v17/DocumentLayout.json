@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|c:\\users\\ducbu\\onedrive\\28. \u0111\u1EE9c rnd\\04.shiv12\\09.bang tai chuyen thung\\connect_kanban\\conv_tranfer_sys_ui_19112023\\robot_3_axis_ui\\manual_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\manual_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\items_error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\items_error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\iur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\iur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\gpio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\gpio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\iplc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\iplc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|c:\\users\\ducbu\\onedrive\\28. \u0111\u1EE9c rnd\\04.shiv12\\09.bang tai chuyen thung\\connect_kanban\\conv_tranfer_sys_ui_19112023\\robot_3_axis_ui\\setting_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\setting_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\setting_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\setting_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\update_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\update_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\auto_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\auto_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\auto_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\auto_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\gpio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\gpio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\manual_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\manual_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\history_log_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\history_log_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\history_log_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\history_log_screen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\io.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\io.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\image3.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\image3.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\image1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\image1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\robot_3_axis_ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DA59CA40-412C-4010-AB91-8CC4FD905E29}|Robot_3_Axis_UI\\Conveyer_UI.csproj|solutionrelative:robot_3_axis_ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manual_Screen.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Manual_Screen.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Manual_Screen.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Manual_Screen.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Manual_Screen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T02:53:20.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAALsBAAAAAAAAAAAYwHEBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:51:30.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Auto_Screen.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Auto_Screen.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Auto_Screen.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Auto_Screen.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Auto_Screen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T02:51:30.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Path.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Path.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Path.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Path.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Path.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-01T02:51:30.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\MainWindow.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T02:51:30.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUR.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\IUR.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\IUR.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\IUR.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\IUR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:51:30.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Setting_Screen.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Setting_Screen.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Setting_Screen.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Setting_Screen.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Setting_Screen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T02:51:30.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GPIO.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\GPIO.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\GPIO.xaml.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\GPIO.xaml.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\GPIO.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAIAwwEYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:51:30.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "History_Log_Screen.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\History_Log_Screen.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\History_Log_Screen.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\History_Log_Screen.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\History_Log_Screen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T02:51:30.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Items_Error.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Items_Error.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Items_Error.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Items_Error.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Items_Error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:51:30.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update_Screen.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Update_Screen.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Update_Screen.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Update_Screen.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Update_Screen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-01T02:51:30.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Setting_Screen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Setting_Screen.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Setting_Screen.xaml.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Setting_Screen.xaml.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Setting_Screen.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:51:30.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPLC.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\IPLC.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\IPLC.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\IPLC.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\IPLC.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:51:31.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Auto_Screen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Auto_Screen.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Auto_Screen.xaml.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Auto_Screen.xaml.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Auto_Screen.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwC8AAAAmAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-01T02:51:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Manual_Screen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Manual_Screen.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Manual_Screen.xaml.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Manual_Screen.xaml.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Manual_Screen.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAswCoAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-01T02:51:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GPIO.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\GPIO.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\GPIO.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\GPIO.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\GPIO.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T02:51:31.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "History_Log_Screen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\History_Log_Screen.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\History_Log_Screen.xaml.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\History_Log_Screen.xaml.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\History_Log_Screen.xaml.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAUwFkAAAAgAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-01T02:51:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IO.png",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\IO.png",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\IO.png",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\IO.png",
+              "RelativeToolTip": "Robot_3_Axis_UI\\IO.png",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKjSURBVDhPzZTNTxNBGMaf7vZ7t1CWGlBjRUXQYjWpgJZyMJoYJDaNF42JSU\u002BcTDx5MvGgR6/\u002BAYSLB42aEBITlHhDBFEULFjDR0zFAm3tx0Jpt\u002B06M7QFARObePCXvJvJM\u002B8877yzO4v/Hg19uN3u67IsN5NgYqWIoghBEIIjIyOPmKHL5eq32WxeEiyhUiKRCKLR6MD4\u002BLhXS4VYLAafzwe/388S/kQ\u002Bt44CCVUtgNcaSZhIjxr09fWht7eX5XDs\u002BZeszA1h6tUdTAzcRGjqMSmwVpzZpCLDWGgU8e9jSK18xvLsIPLKenFmk4oMdQYLeJ0AjjdCZ5RItzuX71CUvIr5SBaLcQWr2UJR3UCyd6C\u002B\u002BTLqjnahvqkbnI6c4TbKhqqqIptTEU7k8OR9Ai8CMmZXsqxAidoDHWjsuI2mc/cgHbkEjryY7WwxBL4uZ/DwdRQz4Qyef0jg2UQSgR\u002BZYsYGcqZAOlDwMZT\u002BrVgJ9tlQ3n1LI/wphQxJ8p\u002BtQTydZ4ueEmOKY6\u002BBmb2cljH0RSY3QoX3ZBXONJjZfImy4VIyhxpyZl0tItoaTKy6UafB2/k1tlM5IyJIOliIZlEr8LCaeAzNrLLOwkml6LKl5T0WLVoPmnDxuAiznkM1WeA\u002BZEZno4DllILB6VW8mUujxszjWqsVV09Xw0QKji6kEVzaPJayYRsx8zrJZ8Gx28ioIqa0pR6PhMWEApfdiO4WC07tN8Iu6XHrvA35gorQz112SH22mpWguz1BDB5cqcONdisO2/RMp6k2UYueTgkXjolMo5QNNeRO7gaV9byGtSoaOGjJuAQd7rPqIAnlV7Hx\u002B3I6nf0Oh8NLgomVEggEaAxMTk56maHH47mbTCbbU6kUS6gUi8VCY2x4ePh\u002BUfpXAL8AZgrxOQSmm4QAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-01T02:51:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Image3.png",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Image3.png",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Image3.png",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Image3.png",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Image3.png",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKjSURBVDhPzZTNTxNBGMaf7vZ7t1CWGlBjRUXQYjWpgJZyMJoYJDaNF42JSU\u002BcTDx5MvGgR6/\u002BAYSLB42aEBITlHhDBFEULFjDR0zFAm3tx0Jpt\u002B06M7QFARObePCXvJvJM\u002B8877yzO4v/Hg19uN3u67IsN5NgYqWIoghBEIIjIyOPmKHL5eq32WxeEiyhUiKRCKLR6MD4\u002BLhXS4VYLAafzwe/388S/kQ\u002Bt44CCVUtgNcaSZhIjxr09fWht7eX5XDs\u002BZeszA1h6tUdTAzcRGjqMSmwVpzZpCLDWGgU8e9jSK18xvLsIPLKenFmk4oMdQYLeJ0AjjdCZ5RItzuX71CUvIr5SBaLcQWr2UJR3UCyd6C\u002B\u002BTLqjnahvqkbnI6c4TbKhqqqIptTEU7k8OR9Ai8CMmZXsqxAidoDHWjsuI2mc/cgHbkEjryY7WwxBL4uZ/DwdRQz4Qyef0jg2UQSgR\u002BZYsYGcqZAOlDwMZT\u002BrVgJ9tlQ3n1LI/wphQxJ8p\u002BtQTydZ4ueEmOKY6\u002BBmb2cljH0RSY3QoX3ZBXONJjZfImy4VIyhxpyZl0tItoaTKy6UafB2/k1tlM5IyJIOliIZlEr8LCaeAzNrLLOwkml6LKl5T0WLVoPmnDxuAiznkM1WeA\u002BZEZno4DllILB6VW8mUujxszjWqsVV09Xw0QKji6kEVzaPJayYRsx8zrJZ8Gx28ioIqa0pR6PhMWEApfdiO4WC07tN8Iu6XHrvA35gorQz112SH22mpWguz1BDB5cqcONdisO2/RMp6k2UYueTgkXjolMo5QNNeRO7gaV9byGtSoaOGjJuAQd7rPqIAnlV7Hx\u002B3I6nf0Oh8NLgomVEggEaAxMTk56maHH47mbTCbbU6kUS6gUi8VCY2x4ePh\u002BUfpXAL8AZgrxOQSmm4QAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-01T02:51:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Image1.png",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Image1.png",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Image1.png",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Image1.png",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Image1.png",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKjSURBVDhPzZTNTxNBGMaf7vZ7t1CWGlBjRUXQYjWpgJZyMJoYJDaNF42JSU\u002BcTDx5MvGgR6/\u002BAYSLB42aEBITlHhDBFEULFjDR0zFAm3tx0Jpt\u002B06M7QFARObePCXvJvJM\u002B8877yzO4v/Hg19uN3u67IsN5NgYqWIoghBEIIjIyOPmKHL5eq32WxeEiyhUiKRCKLR6MD4\u002BLhXS4VYLAafzwe/388S/kQ\u002Bt44CCVUtgNcaSZhIjxr09fWht7eX5XDs\u002BZeszA1h6tUdTAzcRGjqMSmwVpzZpCLDWGgU8e9jSK18xvLsIPLKenFmk4oMdQYLeJ0AjjdCZ5RItzuX71CUvIr5SBaLcQWr2UJR3UCyd6C\u002B\u002BTLqjnahvqkbnI6c4TbKhqqqIptTEU7k8OR9Ai8CMmZXsqxAidoDHWjsuI2mc/cgHbkEjryY7WwxBL4uZ/DwdRQz4Qyef0jg2UQSgR\u002BZYsYGcqZAOlDwMZT\u002BrVgJ9tlQ3n1LI/wphQxJ8p\u002BtQTydZ4ueEmOKY6\u002BBmb2cljH0RSY3QoX3ZBXONJjZfImy4VIyhxpyZl0tItoaTKy6UafB2/k1tlM5IyJIOliIZlEr8LCaeAzNrLLOwkml6LKl5T0WLVoPmnDxuAiznkM1WeA\u002BZEZno4DllILB6VW8mUujxszjWqsVV09Xw0QKji6kEVzaPJayYRsx8zrJZ8Gx28ioIqa0pR6PhMWEApfdiO4WC07tN8Iu6XHrvA35gorQz112SH22mpWguz1BDB5cqcONdisO2/RMp6k2UYueTgkXjolMo5QNNeRO7gaV9byGtSoaOGjJuAQd7rPqIAnlV7Hx\u002B3I6nf0Oh8NLgomVEggEaAxMTk56maHH47mbTCbbU6kUS6gUi8VCY2x4ePh\u002BUfpXAL8AZgrxOQSmm4QAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-01T02:51:31.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-01T02:51:31.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\App.xaml.cs",
+              "RelativeToolTip": "Robot_3_Axis_UI\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-01T02:51:31.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\App.xaml",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\App.xaml",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\App.xaml",
+              "RelativeToolTip": "Robot_3_Axis_UI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T02:51:31.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\App.config",
+              "RelativeDocumentMoniker": "Robot_3_Axis_UI\\App.config",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\28. \u0110\u1EE9c RnD\\04.SHIV12\\09.Bang Tai Chuyen Thung\\Connect_Kanban\\Conv_Tranfer_Sys_UI_19112023\\Robot_3_Axis_UI\\App.config",
+              "RelativeToolTip": "Robot_3_Axis_UI\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKcSURBVDhPrVRPSJphGP/5aaUrAw2L7Wa2LgkWsXXcQCIopoghJAMv0aHbFh08jAW7Kju7o3gsdlilHRRJJLSBgoThIVC72D/7Y2pY2vO9fH5szFqO/eDh9Xue9/v5fr/n97z435AIKxYXF\u002Beq1erc1dWVkGmNjo4ODA0NwWw2F7u6uj7o9fozocQgEjocjpW\u002Bvr7PtEHItMbBwQGKxSJoX2lkZMTT29v7bXR0NCOUIRNWlMtlaLVaTE1NCZnW2NraYhGPx3sISxqNphyLxXwTExOMlGO72kSj0cD19TX8fj\u002BOj48/3d3dLZyfn6v52j8RNnF7e4twOIzDw8MF0vYrn2ubcGxsDPPz82KQ7qATKqn0\u002Bwmnp6dBOkAul6OzsxNSqRQSidgzEf39/aBmiNHd3c0kaIIRkg6vdDrdS54gkUggm83i5uYGHMe1JH0M3NHR0fN6vb60t7dncrlccDqd8Hq9jJTyjLQdcPTSTzrFd4PB4JmdnUWtVkMwGMTa2hrS6TRkMtFZTwLndrtfRCKRj6RFqVKpfOF1IZHZp\u002BdyOaZlO\u002BCi0ShCodDr1dXVN6lUSndycsIILy4umNnb1pBGh3c9dnZ23hYKBXsmk2H\u002B4rXjNeTJ2yHljEYj81I\u002Bn8f\u002B/j4janb38vISp6enD1qoFTi73Q6LxQJqClQqFQuaT9DNg83NTfh8Ptaop5JyCoXCxAeZ2UTPpsHBQcfy8vLZ\u002BPg4qEnY3t6Gx\u002BNhNwxP\u002BDcbydRq9Q/hN8PGxkYPmVpDw79AfzLMd5uaxiZiZmYGpVKJ2akJvnm/WusPkw0MDJRocdPAP6P1PX3ucDKZZN4kS\u002B2SroVAICCOm1KpZJcuPe\u002ByxGOgRq2sr683JicnG1artWGz2d4JpQcA3AOOGSI59OotsgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-01T02:51:31.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

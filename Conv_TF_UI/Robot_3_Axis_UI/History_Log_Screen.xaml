@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="Conv_TF_UI.History_Log_Screen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Conv_TF_UI"
+             Loaded="History_Screen_Loaded"
+             mc:Ignorable="d"
+             d:DesignHeight="490"
+             d:DesignWidth="880">
+    <Grid Background="#DCDCDC"
+          Height="490">
+        <DataGrid x:Name="List_Error"
+                  AutoGenerateColumns="False"
+                  FontSize="20"
+                  Foreground="Black"
+                  BorderBrush="Black"
+                  BorderThickness="1"
+                  HorizontalGridLinesBrush="Black"
+                  CanUserResizeColumns="False"
+                  CanUserResizeRows="False"
+                  IsReadOnly="True"
+                  Grid.ColumnSpan="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="STT"
+                                    Binding="{Binding STT}"
+                                    Width="80">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="HorizontalAlignment"
+                                    Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Nội Dung"
+                                    Binding="{Binding Content_}"
+                                    Width="500" />
+                <DataGridTextColumn Header="Thời Gian"
+                                    Binding="{Binding Time}"
+                                    Width="250" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>
