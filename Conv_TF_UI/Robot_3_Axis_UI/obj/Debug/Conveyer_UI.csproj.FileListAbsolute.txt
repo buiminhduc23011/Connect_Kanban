@@ -355,3 +355,5 @@ C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connec
 C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conv_TF_UI.Properties.Resources.resources
 C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conv_TF_UI.exe
 C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conv_TF_UI.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\SocketIOClient.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\SocketIOClient.xml

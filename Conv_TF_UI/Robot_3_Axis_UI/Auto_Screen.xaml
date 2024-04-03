@@ -26,7 +26,7 @@
 													<Grid>
 														<Border BorderThickness="1" BorderBrush="Black">
 														</Border>
-                                                        <TextBox Width="320" Height="35" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro" IsReadOnly="True">
+                                                        <TextBox x:Name="txb_Qr1" Width="320" Height="35" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro" IsReadOnly="True">
 														</TextBox>
 													</Grid>
 												</StackPanel>
@@ -50,7 +50,7 @@
 													<Grid>
 														<Border BorderThickness="1" BorderBrush="Black">
 														</Border>
-                                                        <TextBox Width="320" Height="35" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro" IsReadOnly="True">
+                                                        <TextBox x:Name="txb_Qr2" Width="320" Height="35" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro" IsReadOnly="True">
 														</TextBox>
 													</Grid>
 												</StackPanel>

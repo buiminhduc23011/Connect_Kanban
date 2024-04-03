@@ -1,13 +1,13 @@
 ﻿using System;
-using System.ComponentModel;
 using System.Threading;
 using System.Windows;
-using System.Net.Http;
 using System.Windows.Media;
 using Modbus.Device;
 using System.Net.Sockets;
 using Conv_TF_UI.Class;
-
+using System.IO.Ports;
+using SocketIOClient;
+using System.Linq.Expressions;
 
 
 namespace Conv_TF_UI
@@ -19,39 +19,43 @@ namespace Conv_TF_UI
         Manual_Screen Manual_Screen = new Manual_Screen();
         History_Log_Screen History_Log_Screen = new History_Log_Screen();
         Setting_Screen Setting_Screen = new Setting_Screen();
-        // Threads
-        private CancellationTokenSource workerCancellationTokenSource;
-        private CancellationToken workerCancellationToken;
 
+        private Thread UpdateScreen_Thread;
         private Thread Ur_1_Thread;
         private Thread Ur_2_Thread;
+        private Thread Qr_1_Thread;
+        private Thread Qr_2_Thread;
+        private Thread Socket_Thread;
         private volatile bool stopThread = false;
-
         //
         UR Ur1 = new UR();
         private static IModbusMaster Client_1;
-        private DataUr data_1 = new DataUr();
         //
         UR Ur2 = new UR();
         private static IModbusMaster Client_2;
-        private DataUr data_2 = new DataUr();
-        //Variable
-        private int flag_error;
-        // Init
+        // Serial
+        private SerialPort _serialPort1;
+        private SerialPort _serialPort2;
+        private bool isSerialPort1Initialized = false;
+        private bool isSerialPort2Initialized = false;
+        //Socket
+        public bool ConnectSocket = false;
+        private bool IsSendmac = false;
+        SocketIO socket;
         public MainWindow()
         {
             InitializeComponent();
             this.Loaded += new RoutedEventHandler(Window_Loaded);
             Ur_1_Thread = new Thread(new ThreadStart(Ur_1));
             Ur_2_Thread = new Thread(new ThreadStart(Ur_2));
+            Qr_1_Thread = new Thread(new ThreadStart(Qr_1));
+            Qr_2_Thread = new Thread(new ThreadStart(Qr_2));
+            Socket_Thread = new Thread(new ThreadStart(Socket_));
+            UpdateScreen_Thread = new Thread(new ThreadStart(UpdateScreen));
         }
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             Common.Init();
-
-            BackgroundWorker worker = new BackgroundWorker();
-            worker.DoWork += new DoWorkEventHandler(DoWork);
-            worker.RunWorkerAsync();
             //
             Pannel_Monitor.Children.Add(Auto_Screen);
             bt_Auto.Background = new SolidColorBrush(Color.FromRgb(100, 149, 237));
@@ -61,16 +65,25 @@ namespace Conv_TF_UI
             bt_Reset.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
             bt_GPIO.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
             //
-
             Ur_1_Thread.Start();
             Ur_2_Thread.Start();
-            workerCancellationTokenSource = new CancellationTokenSource();
-            workerCancellationToken = workerCancellationTokenSource.Token;
+            Qr_1_Thread.Start();
+            Qr_2_Thread.Start();
+            Socket_Thread.Start();
+            UpdateScreen_Thread.Start();
+            //
         }
         private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
+            if (_serialPort1 != null && _serialPort1.IsOpen)
+            {
+                _serialPort1.Close();
+            }
+            if (_serialPort2 != null && _serialPort2.IsOpen)
+            {
+                _serialPort2.Close();
+            }
             stopThread = true;
-            workerCancellationTokenSource.Cancel();
         }
 
         private void Ur_1()
@@ -82,13 +95,8 @@ namespace Conv_TF_UI
                     using (TcpClient tcpClient = new TcpClient())
                     {
                         Ur1.Connect_Ur(Common.IP_Robot_1, Common.Port_Robot_1, tcpClient, out Client_1);
-                        data_1 = Ur1.Data(Ur1.isConnect, Client_1, 200, 4);
-                        Dispatcher.Invoke(() =>
-                        {
-                            test1.Content = data_1.Coditon_Ur.ToString() + "/" + data_1.Ur_Control.ToString() + "/" + data_1.Mode_Product.ToString();
-                        });
+                        Data.Ur1 = Ur1.Data(Ur1.isConnect, Client_1, 200, 4);
                     }
-
                 }
                 catch
                 {
@@ -105,11 +113,7 @@ namespace Conv_TF_UI
                     using (TcpClient tcpClient = new TcpClient())
                     {
                         Ur2.Connect_Ur(Common.IP_Robot_2, Common.Port_Robot_2, tcpClient, out Client_2);
-                        data_2 = Ur2.Data(Ur2.isConnect, Client_2, 200, 4);
-                        Dispatcher.Invoke(() =>
-                        {
-                            test2.Content = data_2.Coditon_Ur.ToString() + "/" + data_2.Ur_Control.ToString() + "/" + data_2.Mode_Product.ToString();
-                        });
+                        Data.Ur2 = Ur2.Data(Ur2.isConnect, Client_2, 200, 4);
                     }
                 }
                 catch
@@ -118,9 +122,152 @@ namespace Conv_TF_UI
                 }
             }
         }
-        private void DoWork(object sender, DoWorkEventArgs e)
+        private void Qr_1()
         {
-            while (!workerCancellationToken.IsCancellationRequested)
+            while (!stopThread)
+            {
+                try
+                {
+                    if (!isSerialPort1Initialized)
+                    {
+                        if (_serialPort1 != null && _serialPort1.IsOpen)
+                        {
+                            _serialPort1.Close();
+                        }
+                        try
+                        {
+                            _serialPort1 = new SerialPort(Common.Port_QR_1, 9600, Parity.None, 8, StopBits.One);
+                            _serialPort1.Open();
+                            isSerialPort1Initialized = true;
+                        }
+                        catch
+                        {
+                            isSerialPort1Initialized = false;
+                            Thread.Sleep(1000);
+                        }
+                    }
+                    else
+                    {
+                        if (_serialPort1.BytesToRead > 0)
+                        {
+                            Common.DataQR1 = _serialPort1.ReadExisting().Replace("\r", "").Replace("\n", "");
+                        }
+                    }
+                    Thread.Sleep(500);
+                }
+                catch(Exception ex)
+                {
+                    isSerialPort1Initialized = false;
+                    MessageBox.Show(ex.ToString());
+                }
+            }
+        }
+        private void Qr_2()
+        {
+            while (!stopThread)
+            {
+                try
+                {
+                    if (!isSerialPort2Initialized)
+                    {
+                        if (_serialPort2 != null && _serialPort2.IsOpen)
+                        {
+                            _serialPort2.Close();
+                        }
+                        try
+                        {
+                            _serialPort2 = new SerialPort(Common.Port_QR_2, 9600, Parity.None, 8, StopBits.One);
+                            _serialPort2.Open();
+                            isSerialPort2Initialized = true;
+                        }
+                        catch
+                        {
+                            isSerialPort2Initialized = false;
+                            Thread.Sleep(1000);
+                        }
+                    }
+                    else
+                    {
+                        if (_serialPort2.BytesToRead > 0)
+                        {
+                            Common.DataQR2 = _serialPort2.ReadExisting().Replace("\r", "").Replace("\n", "");
+                        }
+                        Thread.Sleep(500);
+                    }
+                }
+                catch (Exception ex)
+                {
+                    
+                    isSerialPort2Initialized = false;
+                    MessageBox.Show(ex.ToString());
+                }
+            }
+        }
+        private async void Socket_()
+        {
+            while (!stopThread)
+            {
+                try
+                {
+                    if (!ConnectSocket)
+                    {
+                        string host_socket;
+                        host_socket = "http://" + Common.IP_Server + ":" + Common.Port_Server;
+                        socket = new SocketIO(host_socket);
+                        await socket.ConnectAsync();
+                        ConnectSocket = true;
+                    }
+                    if (IsSendmac == false && ConnectSocket == true)
+                    {
+                        var mac = new
+                        {
+                            mac = Common.GetMacAddress(),
+                        };
+                        await socket.EmitAsync("connect-machine", mac);
+                        ConnectSocket = true;
+                        IsSendmac = true;
+                    }
+                    socket.OnConnected += (eventSender, eventArgs) =>
+                    {
+                        ConnectSocket = true;
+                    };
+
+                    socket.OnDisconnected += (eventSender, eventArgs) =>
+                    {
+                        ConnectSocket = false;
+                        IsSendmac = false;
+                    };
+                    if(Common.DataQR1!=Common.DataQR1_ && ConnectSocket)
+                    {
+                        var data = new
+                        {
+                            mac = Common.GetMacAddress(),
+                            ip = Common.IP_Robot_1,
+                            box_id = Common.DataQR1,
+                        };
+                        await socket.EmitAsync("box-running", data);
+                        Common.DataQR1_ = Common.DataQR1;
+                    }
+                    if (Common.DataQR2 != Common.DataQR2_ && ConnectSocket == true)
+                    {
+                        var data = new
+                        {
+                            mac = Common.GetMacAddress(),
+                            ip = Common.IP_Robot_2,
+                            box_id = Common.DataQR2,
+                        };
+                        await socket.EmitAsync("box-running", data);
+                        Common.DataQR2_ = Common.DataQR2;
+                    }
+                }
+                catch { }
+            }
+
+        }
+
+        private void UpdateScreen()
+        {
+            while (!stopThread)
             {
 
                 Dispatcher.Invoke(() =>

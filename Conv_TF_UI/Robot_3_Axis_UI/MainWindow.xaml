@@ -140,8 +140,6 @@
                                     x:Name="bt_Setting"
                                     Click="Setting_Click">
                             </Button>
-                            <Label x:Name="test1"></Label>
-                            <Label x:Name="test2"></Label>
                             <Button Margin="0,80,0,0"
         Content="Thoát"
         FontSize="15"

@@ -9,6 +9,7 @@ using System.IO;
 using System.Text.Json;
 using System.Net.Http;
 using System.Timers;
+using Conv_TF_UI.Class;
 
 namespace Conv_TF_UI
 {
@@ -43,6 +44,9 @@ namespace Conv_TF_UI
                     Dispatcher.Invoke(() =>
                     {
                         Update_Error();
+                       
+                        txb_Qr1.Text = Common.DataQR1;
+                        txb_Qr2.Text = Common.DataQR2;
 
                     });
                     Thread.Sleep(200);

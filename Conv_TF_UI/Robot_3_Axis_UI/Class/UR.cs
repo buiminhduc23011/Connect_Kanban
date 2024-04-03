@@ -12,12 +12,20 @@ using System.Windows.Threading;
 
 namespace Conv_TF_UI.Class
 {
+    
     public class DataUr
     {
+        
         public int Ur_Control { get; set; }
         public int Coditon_Ur { get; set; } 
         public int Mode_Product { get; set; }
     }
+    public static class Data
+    {
+        public static DataUr Ur1 { get; set; }
+        public static DataUr Ur2 { get; set; }
+    }
+
     public class UR
     {
         public bool isConnect {  get; set; }
@@ -58,7 +66,6 @@ namespace Conv_TF_UI.Class
             {
                 try
                 {
-
                     ushort[] data = Client.ReadHoldingRegisters(1, startAddress, numRegisters);
                     dataUr.Ur_Control = data[0];
                     dataUr.Coditon_Ur = data[1];
@@ -66,6 +73,7 @@ namespace Conv_TF_UI.Class
                 }
                 catch
                 {
+
                 }
             }
             return dataUr;
