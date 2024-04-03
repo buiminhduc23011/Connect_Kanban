@@ -1,0 +1,176 @@
+﻿<Window x:Class="Conv_TF_UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Closing="Window_Closing"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        Height="600"
+        Width="1024"
+        WindowStartupLocation="CenterScreen"
+        Icon="Image/Logo.png">
+    <Grid Margin="0,0,0,0">
+
+        <Grid Grid.ColumnSpan="4">
+            <StackPanel>
+                <Grid 
+                      Margin="5,0,5,0">
+                    <StackPanel Orientation="Horizontal"
+                                Height="65">
+                        <Image Source="Image/Logo.png"
+                               Height="50"
+                               Width="80"
+                               HorizontalAlignment="Left"
+                               VerticalAlignment="Top"
+                               Margin="10,10,0,0" />
+                        <StackPanel />
+                        <StackPanel Orientation="Horizontal">
+                            <Grid Margin="50,0,0,0"
+                                  Height="70"
+                                  Width="770">
+                                <Label
+                                    Content="Băng Tải Chuyển Thùng"
+                                       Foreground="Black"
+                                       FontSize="40"
+                                       FontStyle="Normal"
+                                       FontWeight="Bold"
+                                       FontFamily="Source Sans Pro"
+                                       HorizontalAlignment="Center"
+                                       VerticalAlignment="Top" />
+                            </Grid>
+                            <Grid HorizontalAlignment="Center"
+                                  VerticalAlignment="Center">
+                                <StackPanel>
+                                    <Label Content="18/05/2023"
+                                           x:Name="lb_DayNow"
+                                           Foreground="Black"
+                                           FontSize="15"
+                                           FontStyle="Normal"
+                                           FontWeight="Bold"
+                                           FontFamily="Source Sans Pro"
+                                           HorizontalAlignment="Left"></Label>
+                                    <Label Content="07:38:58"
+                                           x:Name="lb_Timenow"
+                                           Foreground="Black"
+                                           FontSize="15"
+                                           FontStyle="Normal"
+                                           FontWeight="Bold"
+                                           FontFamily="Source Sans Pro"
+                                           HorizontalAlignment="Left"></Label>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+
+                    </StackPanel>
+                </Grid>
+
+                <StackPanel Orientation="Horizontal"
+                            Margin="5,5,0,0"
+                            Height="490"
+                            Width="1080">
+                    <Grid 
+                         
+                          Width="115">
+                        <Border BorderBrush="Black"
+        BorderThickness="1" />
+                        <StackPanel Margin="0,0,0,0">
+                            <Button Margin="0,5,0,0"
+                                    Content="Tự Động"
+                                    FontSize="15"
+                                    VerticalContentAlignment="Center"
+                                    HorizontalContentAlignment="Center"
+                                    FontWeight="Bold"
+                                    Width="110"
+                                    Height="50"
+                                    x:Name="bt_Auto"
+                                    Click="Auto_Click">
+                            </Button>
+
+
+                            <Button Margin="0,5,0,0"
+                                    Content="Bằng Tay"
+                                    FontSize="15"
+                                    FontWeight="Bold"
+                                    Width="110"
+                                    Height="50"
+                                    x:Name="bt_Manu"
+                                    Click="Manual_Click">
+                            </Button>
+                            <Button Margin="0,5,0,0"
+                                    Content="Xóa Lỗi"
+                                    FontSize="15"
+                                    FontWeight="Bold"
+                                    Width="110"
+                                    Height="50"
+                                    x:Name="bt_Reset"
+                                    Click="Reset_Click">
+                            </Button>
+                            <Button Margin="0,5,0,0"
+                                    Content="Tín Hiệu IO"
+                                    FontSize="15"
+                                    FontWeight="Bold"
+                                    Width="110"
+                                    Height="50"
+                                    x:Name="bt_GPIO"
+                                    Click="GPIO_Click">
+                            </Button>
+                            <Button Margin="0,5,0,0"
+                                    Content="Lịch Sử"
+                                    FontSize="15"
+                                    FontWeight="Bold"
+                                    Width="110"
+                                    Height="50"
+                                    x:Name="bt_History"
+                                    Click="History_Click">
+                            </Button>
+                            <Button Margin="0,5,0,0"
+                                    Content="Hệ Thống"
+                                    FontSize="15"
+                                    FontWeight="Bold"
+                                    Width="110"
+                                    Height="50"
+                                    x:Name="bt_Setting"
+                                    Click="Setting_Click">
+                            </Button>
+                            <Button Margin="0,80,0,0"
+        Content="Thoát"
+        FontSize="15"
+        FontWeight="Bold"
+        Width="110"
+        Height="50"
+        x:Name="bt_Quit" Click="bt_Quit_Click">
+                            </Button>
+
+                            <Label Content="Version 2.0.0"
+                                   Margin="0,5,0,0"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Bottom"
+                                   FontSize="10"
+                                   FontFamily="Source Sans Pro"
+                                   Foreground="Black">
+                            </Label>
+
+                        </StackPanel>
+                    </Grid>
+                    <Grid Margin="5,0,0,0">
+                        <Border BorderBrush="Black"
+BorderThickness="1" />
+                        <StackPanel x:Name="Pannel_Monitor"
+                                    Width="880"
+                                    Height="490" />
+                    </Grid>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+
+</Window>

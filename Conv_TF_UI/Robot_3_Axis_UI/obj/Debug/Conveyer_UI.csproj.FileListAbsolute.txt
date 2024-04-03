@@ -1,0 +1,359 @@
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.exe.config
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.exe
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\MaterialDesignColors.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\Melsec.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\S7.Net.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Buffers.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Memory.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Text.Json.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.ValueTuple.dll
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\S7.Net.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Buffers.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Memory.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Text.Json.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\System.ValueTuple.xml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.AssemblyReference.cache
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Button_Style.baml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Auto_Screen.g.cs
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\History_Log_Screen.g.cs
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\MainWindow.g.cs
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Manual_Screen.g.cs
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Setting_Screen.g.cs
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\App.g.cs
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI_MarkupCompile.cache
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI_MarkupCompile.lref
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\App.baml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Auto_Screen.baml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\History_Log_Screen.baml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\MainWindow.baml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Manual_Screen.baml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Setting_Screen.baml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.g.resources
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.Properties.Resources.resources
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.GenerateResource.cache
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.CoreCompileInputs.cache
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.CopyComplete
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.exe
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.pdb
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.pdb
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\LoginWindow.g.cs
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\LoginWindow.baml
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\GPIO.g.cs
+C:\Users\DucBui\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Ver2\Robot_3_Axis_UI\obj\Debug\GPIO.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.exe.config
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.exe
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\MaterialDesignColors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\S7.Net.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Buffers.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Memory.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Text.Json.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.ValueTuple.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\MaterialDesignColors.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\S7.Net.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Buffers.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Memory.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Text.Json.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\bin\Debug\System.ValueTuple.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.AssemblyReference.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Button_Style.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Auto_Screen.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\GPIO.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\History_Log_Screen.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\LoginWindow.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\MainWindow.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Manual_Screen.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Setting_Screen.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\App.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI_MarkupCompile.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI_MarkupCompile.lref
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\App.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Auto_Screen.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\GPIO.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\History_Log_Screen.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\LoginWindow.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\MainWindow.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Manual_Screen.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Setting_Screen.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.g.resources
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.Properties.Resources.resources
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.GenerateResource.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.CoreCompileInputs.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.CopyComplete
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.exe
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Back_Up\Conveyer Tranfer UI_Ver2_09_06_2023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.exe.config
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.exe
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\MaterialDesignColors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\NModbus4.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\S7.Net.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Buffers.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Memory.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Text.Json.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.ValueTuple.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\MaterialDesignColors.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\NModbus4.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\S7.Net.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Buffers.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Memory.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Text.Json.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\bin\Debug\System.ValueTuple.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.AssemblyReference.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Button_Style.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Auto_Screen.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\GPIO.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\History_Log_Screen.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\LoginWindow.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\MainWindow.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Manual_Screen.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Setting_Screen.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\App.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI_MarkupCompile.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI_MarkupCompile.lref
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\App.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Auto_Screen.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\GPIO.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\History_Log_Screen.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\LoginWindow.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\MainWindow.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Manual_Screen.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Setting_Screen.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.g.resources
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.Properties.Resources.resources
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.GenerateResource.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.CoreCompileInputs.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.CopyComplete
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.exe
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conveyer Tranfer UI_Connect_UR_Robot\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.AssemblyReference.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Button_Style.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Auto_Screen.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\GPIO.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\History_Log_Screen.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\MainWindow.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Manual_Screen.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Setting_Screen.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\App.g.cs
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI_MarkupCompile.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI_MarkupCompile.lref
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.exe
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.exe.config
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.exe
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\MaterialDesignColors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\NModbus4.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Buffers.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Memory.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Text.Json.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.ValueTuple.dll
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\MaterialDesignColors.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\NModbus4.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Buffers.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Memory.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Text.Json.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.ValueTuple.xml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\App.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Auto_Screen.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\GPIO.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\History_Log_Screen.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\MainWindow.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Manual_Screen.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Setting_Screen.baml
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.g.resources
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.Properties.Resources.resources
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.GenerateResource.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.CoreCompileInputs.cache
+D:\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.CopyComplete
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.AssemblyReference.cache
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Button_Style.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Auto_Screen.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\History_Log_Screen.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\MainWindow.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Manual_Screen.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Setting_Screen.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\App.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI_MarkupCompile.cache
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI_MarkupCompile.lref
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.exe
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.exe.config
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.exe
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Robot_3_Axis_UI.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\MaterialDesignColors.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\NModbus4.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Buffers.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Memory.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Text.Json.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.ValueTuple.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\NModbus4.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Buffers.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Memory.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Text.Json.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\bin\Debug\System.ValueTuple.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\App.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Auto_Screen.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\History_Log_Screen.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\MainWindow.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Manual_Screen.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Setting_Screen.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.g.resources
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Robot_3_Axis_UI.Properties.Resources.resources
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.GenerateResource.cache
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.CoreCompileInputs.cache
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_Tranfer_Sys_UI_19112023\Robot_3_Axis_UI\obj\Debug\Conveyer.A5D1A5C3.Up2Date
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\MaterialDesignColors.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\NModbus4.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Buffers.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Memory.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Text.Json.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.ValueTuple.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\NModbus4.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Buffers.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Memory.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Text.Json.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\System.ValueTuple.xml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.AssemblyReference.cache
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Button_Style.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Auto_Screen.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\History_Log_Screen.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\MainWindow.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Manual_Screen.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Setting_Screen.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\App.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\App.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Auto_Screen.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\History_Log_Screen.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\MainWindow.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Manual_Screen.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Setting_Screen.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.GenerateResource.cache
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conveyer_UI.csproj.CoreCompileInputs.cache
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conveyer.A5D1A5C3.Up2Date
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Style\txb_style.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\M_Cum1.g.cs
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\M_Cum1.baml
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\Conv_TF_UI.exe.config
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\Conv_TF_UI.exe
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\Conv_TF_UI.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conv_TF_UI_MarkupCompile.cache
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conv_TF_UI_MarkupCompile.lref
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conv_TF_UI.g.resources
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conv_TF_UI.Properties.Resources.resources
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conv_TF_UI.exe
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\obj\Debug\Conv_TF_UI.pdb
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\SocketIOClient.dll
+C:\Users\ducbu\OneDrive\28. Đức RnD\04.SHIV12\09.Bang Tai Chuyen Thung\Connect_Kanban\Conv_TF_UI\Robot_3_Axis_UI\bin\Debug\SocketIOClient.xml

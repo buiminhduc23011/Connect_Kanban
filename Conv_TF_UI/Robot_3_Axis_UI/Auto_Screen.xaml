@@ -1,0 +1,77 @@
+﻿<UserControl x:Class="Conv_TF_UI.Auto_Screen" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:local="clr-namespace:Conv_TF_UI" mc:Ignorable="d" d:DesignHeight="490" d:DesignWidth="880">
+	<Grid>
+		<StackPanel>
+			<StackPanel Orientation="Horizontal">
+				<Grid Width="880">
+					<Label Content="Hệ Thống Không Lỗi" x:Name="lb_Error_Status" Width="880" Foreground="Green" BorderBrush="Black" BorderThickness="1" FontSize="15" FontStyle="Normal" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center">
+					</Label>
+				</Grid>
+			</StackPanel>
+			<Grid Height="470" Width="880" HorizontalAlignment="Center">
+				<Grid HorizontalAlignment="Center" VerticalAlignment="Center" Height="450">
+					<StackPanel Orientation="Horizontal">
+						<Grid>
+							<StackPanel Orientation="Horizontal">
+								<Grid>
+									<StackPanel Orientation="Horizontal">
+										<Grid Width="440">
+											<Border BorderBrush="Black" BorderThickness="1">
+											</Border>
+											<StackPanel>
+												<Button Content="Cụm 1" HorizontalAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="20" FontStyle="Normal" FontWeight="Bold" Width="430" Margin="0,5,0,0" FontFamily="Source Sans Pro">
+												</Button>
+												<StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                                                    <Label Content="Mã Thùng:" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro" Width="100" >
+													</Label>
+													<Grid>
+														<Border BorderThickness="1" BorderBrush="Black">
+														</Border>
+                                                        <TextBox x:Name="txb_Qr1" Width="320" Height="35" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro" IsReadOnly="True">
+														</TextBox>
+													</Grid>
+												</StackPanel>
+												<StackPanel Margin="0,140,0,0">
+													<StackPanel Orientation="Horizontal">
+														<Grid Width="107.5" />
+														<Grid Width="107.5" />
+													</StackPanel>
+												</StackPanel>
+											</StackPanel>
+										</Grid>
+										<Grid Width="440">
+											<Border BorderBrush="Black" BorderThickness="1">
+											</Border>
+											<StackPanel>
+												<Button Content="Cụm 2" HorizontalAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="20" FontStyle="Normal" FontWeight="Bold" Width="430" Margin="0,5,0,0" FontFamily="Source Sans Pro">
+												</Button>
+												<StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+													<Label Content="Mã Thùng:" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" Width="100" FontFamily="Source Sans Pro">
+													</Label>
+													<Grid>
+														<Border BorderThickness="1" BorderBrush="Black">
+														</Border>
+                                                        <TextBox x:Name="txb_Qr2" Width="320" Height="35" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro" IsReadOnly="True">
+														</TextBox>
+													</Grid>
+												</StackPanel>
+												<StackPanel Margin="0,140,0,0">
+													<StackPanel Orientation="Horizontal">
+														<Grid Width="107.5" />
+														<Grid Width="107.5" />
+													</StackPanel>
+													<StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+														<Grid Width="107.5" />
+													</StackPanel>
+												</StackPanel>
+											</StackPanel>
+										</Grid>
+									</StackPanel>
+								</Grid>
+							</StackPanel>
+						</Grid>
+					</StackPanel>
+				</Grid>
+			</Grid>
+		</StackPanel>
+	</Grid>
+</UserControl>
