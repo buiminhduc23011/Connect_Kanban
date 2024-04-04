@@ -30,12 +30,19 @@ namespace Conv_TF_UI
         public History_Log_Screen()
         {
             InitializeComponent();
+            Loaded += loaded;
+            Unloaded += unloaded;
+        }
+        private void unloaded(object sender, RoutedEventArgs e)
+        {
+            timer.Stop();
+        }
+
+        private void loaded(object sender, RoutedEventArgs e)
+        {
             timer = new DispatcherTimer();
             timer.Interval = TimeSpan.FromMilliseconds(500);
             timer.Tick += Timer_Tick;
-        }
-        private void History_Screen_Loaded(object sender, RoutedEventArgs e)
-        {
             timer.Start();
             List<Items_Error> items = new List<Items_Error>();
             int index = 1;

@@ -8,6 +8,7 @@ using Conv_TF_UI.Class;
 using System.IO.Ports;
 using SocketIOClient;
 using System.Linq.Expressions;
+using System.Collections.Generic;
 
 
 namespace Conv_TF_UI
@@ -26,6 +27,7 @@ namespace Conv_TF_UI
         private Thread Qr_1_Thread;
         private Thread Qr_2_Thread;
         private Thread Socket_Thread;
+      
         private volatile bool stopThread = false;
         //
         UR Ur1 = new UR();
@@ -42,6 +44,8 @@ namespace Conv_TF_UI
         public bool ConnectSocket = false;
         private bool IsSendmac = false;
         SocketIO socket;
+        //
+        IPLC plc = new IPLC();
         public MainWindow()
         {
             InitializeComponent();
@@ -56,6 +60,7 @@ namespace Conv_TF_UI
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             Common.Init();
+            plc.Start();
             //
             Pannel_Monitor.Children.Add(Auto_Screen);
             bt_Auto.Background = new SolidColorBrush(Color.FromRgb(100, 149, 237));
@@ -72,9 +77,12 @@ namespace Conv_TF_UI
             Socket_Thread.Start();
             UpdateScreen_Thread.Start();
             //
+            
         }
         private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
+            plc.Stop();
+            Pannel_Monitor.Children.Clear();
             if (_serialPort1 != null && _serialPort1.IsOpen)
             {
                 _serialPort1.Close();
@@ -84,6 +92,24 @@ namespace Conv_TF_UI
                 _serialPort2.Close();
             }
             stopThread = true;
+            //
+            List<Thread> threadsToClose = new List<Thread>
+            {
+                Ur_1_Thread,
+                Ur_2_Thread,
+                Qr_1_Thread,
+                Qr_2_Thread,
+                Socket_Thread,
+                UpdateScreen_Thread
+            };
+            foreach (Thread thread in threadsToClose)
+            {
+                if (thread != null)
+                {
+                    thread.Abort();
+                }
+            }
+
         }
 
         private void Ur_1()
@@ -155,10 +181,9 @@ namespace Conv_TF_UI
                     }
                     Thread.Sleep(500);
                 }
-                catch(Exception ex)
+                catch
                 {
                     isSerialPort1Initialized = false;
-                    MessageBox.Show(ex.ToString());
                 }
             }
         }
@@ -195,11 +220,9 @@ namespace Conv_TF_UI
                         Thread.Sleep(500);
                     }
                 }
-                catch (Exception ex)
+                catch
                 {
-                    
                     isSerialPort2Initialized = false;
-                    MessageBox.Show(ex.ToString());
                 }
             }
         }
@@ -217,50 +240,57 @@ namespace Conv_TF_UI
                         await socket.ConnectAsync();
                         ConnectSocket = true;
                     }
-                    if (IsSendmac == false && ConnectSocket == true)
+                    else
                     {
-                        var mac = new
+                        if (IsSendmac == false)
                         {
-                            mac = Common.GetMacAddress(),
+                            var mac = new
+                            {
+                                mac = Common.GetMacAddress(),
+                            };
+                            await socket.EmitAsync("connect-machine", mac);
+                            ConnectSocket = true;
+                            IsSendmac = true;
+                        }
+                        socket.OnConnected += (eventSender, eventArgs) =>
+                        {
+                            ConnectSocket = true;
                         };
-                        await socket.EmitAsync("connect-machine", mac);
-                        ConnectSocket = true;
-                        IsSendmac = true;
-                    }
-                    socket.OnConnected += (eventSender, eventArgs) =>
-                    {
-                        ConnectSocket = true;
-                    };
 
-                    socket.OnDisconnected += (eventSender, eventArgs) =>
-                    {
-                        ConnectSocket = false;
-                        IsSendmac = false;
-                    };
-                    if(Common.DataQR1!=Common.DataQR1_ && ConnectSocket)
-                    {
-                        var data = new
+                        socket.OnDisconnected += (eventSender, eventArgs) =>
                         {
-                            mac = Common.GetMacAddress(),
-                            ip = Common.IP_Robot_1,
-                            box_id = Common.DataQR1,
+                            ConnectSocket = false;
+                            IsSendmac = false;
                         };
-                        await socket.EmitAsync("box-running", data);
-                        Common.DataQR1_ = Common.DataQR1;
-                    }
-                    if (Common.DataQR2 != Common.DataQR2_ && ConnectSocket == true)
-                    {
-                        var data = new
+                        if (Common.DataQR1 != Common.DataQR1_)
                         {
-                            mac = Common.GetMacAddress(),
-                            ip = Common.IP_Robot_2,
-                            box_id = Common.DataQR2,
-                        };
-                        await socket.EmitAsync("box-running", data);
-                        Common.DataQR2_ = Common.DataQR2;
+                            var data = new
+                            {
+                                mac = Common.GetMacAddress(),
+                                ip = Common.IP_Robot_1,
+                                box_id = Common.DataQR1,
+                            };
+                            await socket.EmitAsync("box-running", data);
+                            Common.DataQR1_ = Common.DataQR1;
+                        }
+                        if (Common.DataQR2 != Common.DataQR2_)
+                        {
+                            var data = new
+                            {
+                                mac = Common.GetMacAddress(),
+                                ip = Common.IP_Robot_2,
+                                box_id = Common.DataQR2,
+                            };
+                            await socket.EmitAsync("box-running", data);
+                            Common.DataQR2_ = Common.DataQR2;
+                        }
                     }
+
                 }
-                catch { }
+                catch
+                {
+                }
+                Thread.Sleep(200);
             }
 
         }

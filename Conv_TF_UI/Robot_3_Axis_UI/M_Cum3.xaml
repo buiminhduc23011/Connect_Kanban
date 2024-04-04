@@ -1,0 +1,149 @@
+﻿<UserControl x:Class="Conv_TF_UI.M_Cum3"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Conv_TF_UI"
+             mc:Ignorable="d" 
+             d:DesignHeight="490"
+d:DesignWidth="880">
+    <Grid>
+        <StackPanel>
+            <Grid Height="40"></Grid>
+            <StackPanel>
+                <Label Content="Băng Tải"
+               Margin="0,10,0,0"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               FontSize="25"
+               FontWeight="Bold"
+               FontFamily="Source Sans Pro"
+               Foreground="Black">
+                </Label>
+                <Grid Margin="0,10,0,0">
+                    <StackPanel Orientation="Horizontal">
+                        <Grid Width="290">
+                            <Button Content="Roller 1"
+                            x:Name="D5_0"
+                            Click="D5_0_Click"
+                            Width="200"
+                            Height="80"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"></Button>
+                        </Grid>
+                        <Grid Width="290">
+                            <Button Content="Roller 2"
+                            x:Name="D5_3"
+                            Click="D5_3_Click"
+                            Width="200"
+                            Height="80"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"></Button>
+                        </Grid>
+                        <Grid Width="290">
+                            <Button Content="BT Thành Phẩm"
+                            x:Name="D5_4"
+                            Click="D5_4_Click"
+                            Width="200"
+                            Height="80"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"></Button>
+                        </Grid>
+                    </StackPanel>
+                </Grid>
+
+                <Grid Margin="0,20,0,0">
+                    <StackPanel Orientation="Horizontal">
+                        <Grid Width="440">
+                            <Button Content="FWD RGV"
+                            x:Name="D5_1"
+                            Click="D5_1_Click"
+                            Width="200"
+                            Height="80"
+                            Margin="200,0,0,0"></Button>
+                        </Grid>
+                        <Grid Width="440">
+                            <Button Content="REV RGV"
+                            x:Name="D5_2"
+                            Click="D5_2_Click"
+                            Width="200"
+                            Height="80"
+                            Margin="0,0,200,0"></Button>
+                        </Grid>
+                    </StackPanel>
+                </Grid>
+
+            </StackPanel>
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <Grid Width="440">
+                        <StackPanel>
+                            <Label Content="Stopper 1"
+                           Margin="0,10,0,0"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                           FontSize="25"
+                           FontWeight="Bold"
+                           FontFamily="Source Sans Pro"
+                           Foreground="Black">
+                            </Label>
+                            <StackPanel Orientation="Horizontal">
+                                <Grid Width="220" Margin="0,20,0,0">
+                                    <Button Content="Hạ"
+                                    x:Name="D5_5"
+                                    Click="D5_5_Click"
+                                    Width="200"
+                                    Height="100"
+                                    ></Button>
+                                </Grid>
+                                <Grid Width="220"
+                              Margin="0,20,0,0">
+                                    <Button Content="Đẩy"
+                                    x:Name="D5_6"
+                                    Click="D5_6_Click"
+                                    Width="200"
+                                    Height="100"></Button>
+                                </Grid>
+                                <Grid Width="220"></Grid>
+                            </StackPanel>
+                        </StackPanel>
+
+                    </Grid>
+                    <Grid Width="440">
+                        <StackPanel>
+                            <Label Content="Stopper 2"
+                           Margin="0,10,0,0"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                           FontSize="25"
+                           FontWeight="Bold"
+                           FontFamily="Source Sans Pro"
+                           Foreground="Black">
+                            </Label>
+                            <StackPanel Orientation="Horizontal">
+                                <Grid Width="220"
+                              Margin="0,20,0,0">
+                                    <Button Content="Hạ"
+                                    x:Name="D5_7"
+                                    Click="D5_7_Click"
+                                    Width="200"
+                                    Height="100"></Button>
+                                </Grid>
+                                <Grid Width="220"
+                              Margin="0,20,0,0">
+                                    <Button Content="Đẩy"
+                                    x:Name="D5_8"
+                                    Click="D5_8_Click"
+                                    Width="200"
+                                    Height="100"></Button>
+                                </Grid>
+                                <Grid Width="220"></Grid>
+                            </StackPanel>
+                        </StackPanel>
+
+                    </Grid>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

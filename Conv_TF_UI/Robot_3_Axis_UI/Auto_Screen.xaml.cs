@@ -10,6 +10,7 @@ using System.Text.Json;
 using System.Net.Http;
 using System.Timers;
 using Conv_TF_UI.Class;
+using System.Windows.Threading;
 
 namespace Conv_TF_UI
 {
@@ -20,31 +21,36 @@ namespace Conv_TF_UI
     {
         Path path = new Path();
         Update_Screen update = new Update_Screen();
-        private Thread runThread;
-        private volatile bool stopRunThread = false;
+        private DispatcherTimer timer;
         public Auto_Screen()
         {
-           
+
             InitializeComponent();
-            Unloaded += Auto_Screen_Unloaded;
-            runThread = new Thread(new ThreadStart(MyBackgroundTask));
-            string json = File.ReadAllText(path.Setting);
-            var data_Setting = JsonSerializer.Deserialize<Dictionary<string, string>>(json);
-            runThread.Start();
+            Loaded += loaded;
+            Unloaded += unloaded;
         }
-        private void Auto_Screen_Unloaded(object sender, RoutedEventArgs e)
+        private void unloaded(object sender, RoutedEventArgs e)
         {
-            stopRunThread = true;
+            timer.Stop();
         }
-        private void MyBackgroundTask()
+
+        private void loaded(object sender, RoutedEventArgs e)
         {
-            while (!stopRunThread)
+            timer = new DispatcherTimer();
+            timer.Interval = TimeSpan.FromMilliseconds(100);
+            timer.Tick += Timer_Tick;
+            timer.Start();
+        }
+        private void Timer_Tick(object sender, EventArgs e)
+        {
             {
-                try {
+
+                try
+                {
                     Dispatcher.Invoke(() =>
                     {
                         Update_Error();
-                       
+
                         txb_Qr1.Text = Common.DataQR1;
                         txb_Qr2.Text = Common.DataQR2;
 
@@ -52,30 +58,31 @@ namespace Conv_TF_UI
                     Thread.Sleep(200);
                 }
                 catch { }
-            }
-        }
-        void Update_Error()
-        {
-            System.DateTime dateTime = System.DateTime.Now;
-            string formattedDate = dateTime.ToString("dd/MM/yyyy HH:mm:ss");
-            if (!IPLC.Connect_PLC)
-            {
-                lb_Error_Status.Content = "Mất Kết Nối PLC" + "  " + formattedDate;
-                lb_Error_Status.Foreground = Brushes.Red;
-            }
-            else if(IPLC.Error>0)
-            {
-                string json = File.ReadAllText(path.List_Error);
-                string[] errorArray = json.Split(new[] { "\n" }, StringSplitOptions.RemoveEmptyEntries);
-                lb_Error_Status.Content = errorArray[IPLC.Error - 1].Replace("\r", "").Replace("\n", "") +"  "+ formattedDate;
-                lb_Error_Status.Foreground = Brushes.Red;
-            }    
-            else
-            {
-                lb_Error_Status.Content = "Hệ Thống Không Lỗi";
-                lb_Error_Status.Foreground = Brushes.Green;
-            }
-        }
 
+            }
+            void Update_Error()
+            {
+                System.DateTime dateTime = System.DateTime.Now;
+                string formattedDate = dateTime.ToString("dd/MM/yyyy HH:mm:ss");
+                if (!IPLC.Connect_PLC)
+                {
+                    lb_Error_Status.Content = "Mất Kết Nối PLC" + "  " + formattedDate;
+                    lb_Error_Status.Foreground = Brushes.Red;
+                }
+                else if (IPLC.Error > 0)
+                {
+                    string json = File.ReadAllText(path.List_Error);
+                    string[] errorArray = json.Split(new[] { "\n" }, StringSplitOptions.RemoveEmptyEntries);
+                    lb_Error_Status.Content = errorArray[IPLC.Error - 1].Replace("\r", "").Replace("\n", "") + "  " + formattedDate;
+                    lb_Error_Status.Foreground = Brushes.Red;
+                }
+                else
+                {
+                    lb_Error_Status.Content = "Hệ Thống Không Lỗi";
+                    lb_Error_Status.Foreground = Brushes.Green;
+                }
+            }
+
+        }
     }
 }

@@ -4,7 +4,6 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:Conv_TF_UI"
-             Loaded="History_Screen_Loaded"
              mc:Ignorable="d"
              d:DesignHeight="490"
              d:DesignWidth="880">

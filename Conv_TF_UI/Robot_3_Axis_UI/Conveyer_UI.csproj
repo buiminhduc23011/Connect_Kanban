@@ -112,6 +112,12 @@
     <Compile Include="M_Cum1.xaml.cs">
       <DependentUpon>M_Cum1.xaml</DependentUpon>
     </Compile>
+    <Compile Include="M_Cum2.xaml.cs">
+      <DependentUpon>M_Cum2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="M_Cum3.xaml.cs">
+      <DependentUpon>M_Cum3.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Setting_Screen.xaml.cs">
       <DependentUpon>Setting_Screen.xaml</DependentUpon>
     </Compile>
@@ -151,6 +157,14 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="M_Cum1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="M_Cum2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="M_Cum3.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

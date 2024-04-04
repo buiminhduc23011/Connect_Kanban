@@ -1,17 +1,94 @@
-var Res_PLC_BT = {
-  I_FrameID: 'D1010,20',
-  error_input_frame: 'D1030,1',
-  O_FrameID: 'D910,20',
-  Status_Frame: 'D930,1',
-  Value_Frame: 'DFLOAT900,5',
-  DoneFrame: 'D946,1',
+var Res_PLC = {
+  //Manual
+  D1_0: 'D1.0,1',
+  D1_1: 'D1.1,1',
+  D1_2: 'D1.2,1',
+  D1_3: 'D1.3,1',
+  D1_4: 'D1.4,1',
+  D1_5: 'D1.5,1',
+  D1_6: 'D1.6,1',
+  D1_7: 'D1.7,1',
+  D1_8: 'D1.8,1',
+  D1_9: 'D1.9,1',
   //
-  Start_order: 'D90,1',
-  cmd_agv_status: 'D991,1',
-  last_order: 'D990,1',
-  assy_status: 'D945,1',
+  D2_0: 'D2.0,1',
+  D2_1: 'D2.1,1',
+  D2_2: 'D2.2,1',
+  D2_3: 'D2.3,1',
+  D2_4: 'D2.4,1',
+  D2_5: 'D2.5,1',
+  D2_6: 'D2.6,1',
+  D2_7: 'D2.7,1',
+  D2_8: 'D2.8,1',
+  D2_9: 'D2.9,1',
   //
-  Cf_OK: 'D120,1'
+  D3_0: 'D3.0,1',
+  D3_1: 'D3.1,1',
+  D3_2: 'D3.2,1',
+  D3_3: 'D3.3,1',
+  D3_4: 'D3.4,1',
+  D3_5: 'D3.5,1',
+  D3_6: 'D3.6,1',
+  D3_7: 'D3.7,1',
+  D3_8: 'D3.8,1',
+  D3_9: 'D3.9,1',
+  //
+  D4_0: 'D4.0,1',
+  D4_1: 'D4.1,1',
+  D4_2: 'D4.2,1',
+  D4_3: 'D4.3,1',
+  D4_4: 'D4.4,1',
+  D4_5: 'D4.5,1',
+  D4_6: 'D4.6,1',
+  D4_7: 'D4.7,1',
+  D4_8: 'D4.8,1',
+  D4_9: 'D4.9,1',
+  //
+  D5_0: 'D5.0,1',
+  D5_1: 'D5.1,1',
+  D5_2: 'D5.2,1',
+  D5_3: 'D5.3,1',
+  D5_4: 'D5.4,1',
+  D5_5: 'D5.5,1',
+  D5_6: 'D5.6,1',
+  D5_7: 'D5.7,1',
+  D5_8: 'D5.8,1',
+  D5_9: 'D5.9,1',
+  //
+  Reset_Error: 'D29,1',
+  Mode_Run_1: 'D39,1', // Báo chạy hàng 1 hay 2 tầng của cụm 1
+  Mode_Run_2: 'D40,1', // Báo chạy hàng 1 hay 2 tầng của cụm 2
+  //
+  R_Home_1: 'D42.0,1',
+  S_Home_1: 'D42.1,1',
+  R_Home_2: 'D44.0,1',
+  S_Home_2: 'D44.1,1',
+  //
+  S_AM: 'D46.0',
+  //
+  OFF_Buzzer: 'D50.0',
+  //
+  Ur_Control_1: 'D70,1', // Robot điều khiển băng tải cụm 1
+  Codition_RB1: 'D71.0,1', // True: Cho phép robot thả hàng; False: Không cho robot thả hàng.
+  //
+  List_Error: 'D100,1',
+  //Input
+  XB0: 'D300,1',
+  XB1: 'D301,1',
+  XB2: 'D302,1',
+  XB3: 'D303,1',
+  XB4: 'D304,1',
+  XB5: 'D305,1',
+  XB6: 'D306,1',
+  XB7: 'D307,1',
+
+  YB0: 'D310,1',
+  YB1: 'D311,1',
+  YB2: 'D312,1',
+  YB3: 'D313,1',
+  YB4: 'D314,1',
+  YB5: 'D315,1',
+  YB6: 'D316,1',
+  YB7: 'D317,1',
 };
-var MAC = "98-59-7A-B1-8F-50";
-module.exports = { Res_PLC_BT, MAC };
+module.exports = { Res_PLC };
