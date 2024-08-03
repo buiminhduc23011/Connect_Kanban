@@ -18,7 +18,7 @@
 											<Border BorderBrush="Black" BorderThickness="1">
 											</Border>
 											<StackPanel>
-												<Button Content="Cụm 1" HorizontalAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="20" FontStyle="Normal" FontWeight="Bold" Width="430" Margin="0,5,0,0" FontFamily="Source Sans Pro">
+												<Button x:Name="bt_Origin_Cum1" Content="Cụm 1" HorizontalAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="20" FontStyle="Normal" FontWeight="Bold" Width="430" Margin="0,5,0,0" FontFamily="Source Sans Pro" Click="bt_Origin_Cum1_Click">
 												</Button>
 												<StackPanel Orientation="Horizontal" Margin="0,10,0,0">
                                                     <Label Content="Mã Thùng:" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro" Width="100" >
@@ -26,23 +26,52 @@
 													<Grid>
 														<Border BorderThickness="1" BorderBrush="Black">
 														</Border>
-                                                        <TextBox x:Name="txb_Qr1" Width="320" Height="35" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro" IsReadOnly="True">
+                                                        <TextBox x:Name="txb_Qr1" Width="320" Height="35" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro" IsReadOnly="True" TextChanged="txb_Qr1_TextChanged">
 														</TextBox>
 													</Grid>
 												</StackPanel>
-												<StackPanel Margin="0,140,0,0">
-													<StackPanel Orientation="Horizontal">
-														<Grid Width="107.5" />
-														<Grid Width="107.5" />
-													</StackPanel>
-												</StackPanel>
-											</StackPanel>
+                                                <StackPanel>
+                                                    <Label Content="Danh Sách Thùng Đã Sản Xuất" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro"  >
+                                                    </Label>
+                                                    <DataGrid x:Name="List_Box_C1"
+														   AutoGenerateColumns="False"
+														   FontSize="12"
+														   Height="345"
+														   Foreground="Black"
+														   BorderBrush="Black"
+														   BorderThickness="1"
+														   HorizontalGridLinesBrush="Black"
+														   CanUserResizeColumns="False"
+														   CanUserResizeRows="False"
+														   IsReadOnly="True"
+														   Grid.ColumnSpan="2">
+                                                        <DataGrid.Columns>
+                                                            <DataGridTextColumn Header="STT"
+																 Binding="{Binding STT}"
+																 Width="55">
+                                                                <DataGridTextColumn.ElementStyle>
+                                                                    <Style TargetType="{x:Type TextBlock}">
+                                                                        <Setter Property="HorizontalAlignment"
+																			Value="Center" />
+                                                                    </Style>
+                                                                </DataGridTextColumn.ElementStyle>
+                                                            </DataGridTextColumn>
+                                                            <DataGridTextColumn Header="Mã Thùng"
+															 Binding="{Binding BoxID}"
+															 Width="200" />
+                                                            <DataGridTextColumn Header="Thời Gian"
+														 Binding="{Binding Time}"
+														 Width="185" />
+                                                        </DataGrid.Columns>
+                                                    </DataGrid>
+                                                </StackPanel>
+                                            </StackPanel>
 										</Grid>
 										<Grid Width="440">
 											<Border BorderBrush="Black" BorderThickness="1">
 											</Border>
 											<StackPanel>
-												<Button Content="Cụm 2" HorizontalAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="20" FontStyle="Normal" FontWeight="Bold" Width="430" Margin="0,5,0,0" FontFamily="Source Sans Pro">
+                                                <Button x:Name="bt_Origin_Cum2" Content="Cụm 2" HorizontalAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="20" FontStyle="Normal" FontWeight="Bold" Width="430" Margin="0,5,0,0" FontFamily="Source Sans Pro" Click="bt_Origin_Cum2_Click">
 												</Button>
 												<StackPanel Orientation="Horizontal" Margin="0,10,0,0">
 													<Label Content="Mã Thùng:" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" Width="100" FontFamily="Source Sans Pro">
@@ -50,20 +79,46 @@
 													<Grid>
 														<Border BorderThickness="1" BorderBrush="Black">
 														</Border>
-                                                        <TextBox x:Name="txb_Qr2" Width="320" Height="35" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro" IsReadOnly="True">
+                                                        <TextBox x:Name="txb_Qr2" Width="320" Height="35" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro" IsReadOnly="True" TextChanged="txb_Qr2_TextChanged">
 														</TextBox>
 													</Grid>
 												</StackPanel>
-												<StackPanel Margin="0,140,0,0">
-													<StackPanel Orientation="Horizontal">
-														<Grid Width="107.5" />
-														<Grid Width="107.5" />
-													</StackPanel>
-													<StackPanel Orientation="Horizontal" Margin="0,10,0,0">
-														<Grid Width="107.5" />
-													</StackPanel>
-												</StackPanel>
-											</StackPanel>
+                                                <StackPanel>
+                                                    <Label Content="Danh Sách Thùng Đã Sản Xuất" HorizontalAlignment="Center" VerticalContentAlignment="Center" Foreground="Black" HorizontalContentAlignment="Center" FontSize="15" FontStyle="Normal" FontWeight="Bold" FontFamily="Source Sans Pro"  >
+                                                    </Label>
+                                                    <DataGrid x:Name="List_Box_C2"
+															   AutoGenerateColumns="False"
+															   FontSize="12"
+															   Height="345"
+															   Foreground="Black"
+															   BorderBrush="Black"
+															   BorderThickness="1"
+															   HorizontalGridLinesBrush="Black"
+															   CanUserResizeColumns="False"
+															   CanUserResizeRows="False"
+															   IsReadOnly="True"
+															   Grid.ColumnSpan="2">
+                                                        <DataGrid.Columns>
+                                                            <DataGridTextColumn Header="STT"
+																 Binding="{Binding STT}"
+																 Width="55">
+																		<DataGridTextColumn.ElementStyle>
+																				<Style TargetType="{x:Type TextBlock}">
+																					<Setter Property="HorizontalAlignment"
+																							Value="Center" />
+																				</Style>
+																			</DataGridTextColumn.ElementStyle>
+																		</DataGridTextColumn>
+																		<DataGridTextColumn Header="Mã Thùng"
+																			 Binding="{Binding BoxID}"
+																			 Width="200" />
+																		<DataGridTextColumn Header="Thời Gian"
+																			 Binding="{Binding Time}"
+																			 Width="185" />
+                                                        </DataGrid.Columns>
+                                                    </DataGrid>
+                                                </StackPanel>
+                                            </StackPanel>
 										</Grid>
 									</StackPanel>
 								</Grid>

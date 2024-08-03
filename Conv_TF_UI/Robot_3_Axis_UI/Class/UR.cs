@@ -59,7 +59,7 @@ namespace Conv_TF_UI.Class
             }
             isConnect = false;
         }
-        public DataUr Data(bool IsConnect, IModbusMaster Client, ushort startAddress, ushort numRegisters)
+        public DataUr Data(bool IsConnect, IModbusMaster Client, ushort startAddress, ushort numRegisters, ushort Codition)
         {
             DataUr dataUr = new DataUr();
             if (IsConnect)
@@ -68,8 +68,10 @@ namespace Conv_TF_UI.Class
                 {
                     ushort[] data = Client.ReadHoldingRegisters(1, startAddress, numRegisters);
                     dataUr.Ur_Control = data[0];
-                    dataUr.Coditon_Ur = data[1];
+                    dataUr.Coditon_Ur = data[3];
                     dataUr.Mode_Product = data[2];
+                    Client.WriteSingleRegister(1, 203, Codition);// Sẵn sàng cho robot hoạt động
+                    
                 }
                 catch
                 {

@@ -98,43 +98,4 @@ namespace Conv_TF_UI {
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Never)]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Design", "CA1033:InterfaceMethodsShouldBeCallableByChildTypes")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
-        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")]
-        void System.Windows.Markup.IComponentConnector.Connect(int connectionId, object target) {
-            switch (connectionId)
-            {
-            case 1:
-            this.bt_Cum1 = ((System.Windows.Controls.Button)(target));
-            
-            #line 14 "..\..\Manual_Screen.xaml"
-            this.bt_Cum1.Click += new System.Windows.RoutedEventHandler(this.bt_Cum1_Click);
-            
-            #line default
-            #line hidden
-            return;
-            case 2:
-            this.bt_Cum2 = ((System.Windows.Controls.Button)(target));
-            
-            #line 17 "..\..\Manual_Screen.xaml"
-            this.bt_Cum2.Click += new System.Windows.RoutedEventHandler(this.bt_Cum2_Click);
-            
-            #line default
-            #line hidden
-            return;
-            case 3:
-            this.bt_CumHoanThanh = ((System.Windows.Controls.Button)(target));
-            
-            #line 20 "..\..\Manual_Screen.xaml"
-            this.bt_CumHoanThanh.Click += new System.Windows.RoutedEventHandler(this.bt_CumHoanThanh_Click);
-            
-            #line default
-            #line hidden
-            return;
-            case 4:
-            this.Manual_Monitor = ((System.Windows.Controls.StackPanel)(target));
-            return;
-            }
-            this._contentLoaded = true;
-        }
-    }
-}
-
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute

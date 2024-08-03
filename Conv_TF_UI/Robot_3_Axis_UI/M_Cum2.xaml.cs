@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -24,6 +25,7 @@ namespace Conv_TF_UI
     {
         Update_Screen update = new Update_Screen();
         private DispatcherTimer timer;
+        PLC plc = new PLC();    
         public M_Cum2()
         {
             InitializeComponent();
@@ -59,191 +61,141 @@ namespace Conv_TF_UI
         void Update_Screen()
         {
 
-            // Gán giá trị cho D3 và IPLC.D3
-            update.bt_Green(D3_0, IPLC.D3_0);
-            update.bt_Green(D3_1, IPLC.D3_1);
-            update.bt_Green(D3_2, IPLC.D3_2);
-            update.bt_Green(D3_3, IPLC.D3_3);
-            update.bt_Green(D3_6, IPLC.D3_6);
-            update.bt_Green(D3_7, IPLC.D3_7);
-            update.bt_Green(D3_8, IPLC.D3_8);
-            update.bt_Green(D3_9, IPLC.D3_9);
+            // Gán giá trị cho D3 và IIPLC.D3
+            update.bt_Blue(D3_0, IPLC.M620,false);
+            update.bt_Blue(D3_1, IPLC.M621, false);
+            update.bt_Blue(D3_2, IPLC.M622, false);
+            update.bt_Blue(D3_3, IPLC.M623, false);
+            update.bt_Blue(D3_6, IPLC.M626, false);
+            update.bt_Blue(D3_7, IPLC.M627, false);
+            update.bt_Blue(D3_8, IPLC.M628, false);
+            update.bt_Blue(D3_9, IPLC.M629, false);
 
-            // Gán giá trị cho D4 và IPLC.D4
-            update.bt_Green(D4_0, IPLC.D4_0);
-            update.bt_Green(D4_1, IPLC.D4_1);
-            update.bt_Green(D4_2, IPLC.D4_2);
-            update.bt_Green(D4_3, IPLC.D4_3);
-            update.bt_Green(D4_4, IPLC.D4_4);
-            update.bt_Green(D4_5, IPLC.D4_5);
-            update.bt_Green(D4_6, IPLC.D4_6);
-            update.bt_Green(D4_7, IPLC.D4_7);
-            update.bt_Green(D4_8, IPLC.D4_8);
+            // Gán giá trị cho D4 và IIPLC.D4
+            update.bt_Blue(D4_0, IPLC.M630, false);
+            update.bt_Blue(D4_1, IPLC.M631, false);
+            update.bt_Blue(D4_2, IPLC.M632, false);
+            update.bt_Blue(D4_3, IPLC.M633, false);
+            update.bt_Blue(D4_4, IPLC.M634, false);
+            update.bt_Blue(D4_5, IPLC.M635, false);
+            update.bt_Blue(D4_6, IPLC.M636, false);
+            update.bt_Blue(D4_7, IPLC.M637,false);
+            update.bt_Blue(D4_8, IPLC.M638, false);
         }
         private void D3_0_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D3_0) IPLC.D3[0] = false;
-            else
-            {
-                IPLC.D3[0] = true;
-                IPLC.D3[1] = false;
-            }
+            var data = new Dictionary<string, object> { { "M620", !IPLC.M620 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D3_1_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D3_1) IPLC.D3[1] = false;
-            else
-            {
-                IPLC.D3[1] = true;
-                IPLC.D3[0] = false;
-            }
+            var data = new Dictionary<string, object> { { "M621", !IPLC.M621 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
         private void D3_2_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D3_2) IPLC.D3[2] = false;
-            else
-            {
-                IPLC.D3[2] = true;
-                IPLC.D3[3] = false;
-            }
+            var data = new Dictionary<string, object> { { "M622", !IPLC.M622 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
         private void D3_3_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D3_3) IPLC.D3[3] = false;
-            else
-            {
-                IPLC.D3[3] = true;
-                IPLC.D3[2] = false;
-            }
+            var data = new Dictionary<string, object> { { "M623", !IPLC.M624 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D3_6_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D3_6) IPLC.D3[6] = false;
-            else
-            {
-                IPLC.D3[6] = true;
-            }
+            var data = new Dictionary<string, object> { { "M626", !IPLC.M626 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D3_7_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D3_7) IPLC.D3[7] = false;
-            else
-            {
-                IPLC.D3[7] = true;
-                IPLC.D3[8] = false;
-            }
+            var data = new Dictionary<string, object> { { "M627", !IPLC.M627 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D3_8_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D3_8) IPLC.D3[8] = false;
-            else
-            {
-                IPLC.D3[8] = true;
-                IPLC.D3[7] = false;
-            }
+            var data = new Dictionary<string, object> { { "M628", !IPLC.M628 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D3_9_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D3_9) IPLC.D3[9] = false;
-            else
-            {
-                IPLC.D3[9] = true;
-                IPLC.D4[0] = false;
-            }
+            var data = new Dictionary<string, object> { { "M629", !IPLC.M629 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
         private void D4_0_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D4_0) IPLC.D4[0] = false;
-            else
-            {
-                IPLC.D4[0] = true;
-                IPLC.D3[9] = false;
-            }
+            var data = new Dictionary<string, object> { { "M630", !IPLC.M630 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D4_1_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D4_1) IPLC.D4[1] = false;
-            else
-            {
-                IPLC.D4[1] = true;
-                IPLC.D4[2] = false;
-            }
+            var data = new Dictionary<string, object> { { "M631", !IPLC.M631 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D4_2_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D4_2) IPLC.D4[2] = false;
-            else
-            {
-                IPLC.D4[2] = true;
-                IPLC.D4[1] = false;
-            }
+            var data = new Dictionary<string, object> { { "M632", !IPLC.M632 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D4_3_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D4_3) IPLC.D4[3] = false;
-            else
-            {
-                IPLC.D4[3] = true;
-                IPLC.D4[4] = false;
-            }
+            var data = new Dictionary<string, object> { { "M633", !IPLC.M633 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D4_4_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D4_4) IPLC.D4[4] = false;
-            else
-            {
-                IPLC.D4[4] = true;
-                IPLC.D4[3] = false;
-            }
+            var data = new Dictionary<string, object> { { "M634", !IPLC.M634 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D4_5_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D4_5) IPLC.D4[5] = false;
-            else
-            {
-                IPLC.D4[5] = true;
-                IPLC.D4[6] = false;
-            }
+            var data = new Dictionary<string, object> { { "M635", !IPLC.M635 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D4_6_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D4_6) IPLC.D4[6] = false;
-            else
-            {
-                IPLC.D4[6] = true;
-                IPLC.D4[5] = false;
-            }
+            var data = new Dictionary<string, object> { { "M636", !IPLC.M636 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D4_7_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D4_7) IPLC.D4[7] = false;
-            else
-            {
-                IPLC.D4[7] = true;
-                IPLC.D4[8] = false;
-            }
+            var data = new Dictionary<string, object> { { "M637", !IPLC.M637 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D4_8_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D4_8) IPLC.D4[8] = false;
-            else
-            {
-                IPLC.D4[8] = true;
-                IPLC.D4[7] = false;
-            }
+            var data = new Dictionary<string, object> { { "M638", !IPLC.M638 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
     }
 }

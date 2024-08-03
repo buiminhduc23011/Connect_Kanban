@@ -9,6 +9,10 @@ using System.IO.Ports;
 using SocketIOClient;
 using System.Linq.Expressions;
 using System.Collections.Generic;
+using Newtonsoft.Json;
+using System.Windows.Controls;
+using System.IO;
+using System.Windows.Media.Media3D;
 
 
 namespace Conv_TF_UI
@@ -20,6 +24,8 @@ namespace Conv_TF_UI
         Manual_Screen Manual_Screen = new Manual_Screen();
         History_Log_Screen History_Log_Screen = new History_Log_Screen();
         Setting_Screen Setting_Screen = new Setting_Screen();
+        GPIO Gpio_Screen = new GPIO();
+        Update_Screen Ud = new Update_Screen();
 
         private Thread UpdateScreen_Thread;
         private Thread Ur_1_Thread;
@@ -27,25 +33,34 @@ namespace Conv_TF_UI
         private Thread Qr_1_Thread;
         private Thread Qr_2_Thread;
         private Thread Socket_Thread;
-      
+
         private volatile bool stopThread = false;
         //
         UR Ur1 = new UR();
+        public static bool Ur1_Connected;
         private static IModbusMaster Client_1;
+        private int Mode_Run_1_Temp;
+        private int Ur1_Control_Temp;
         //
         UR Ur2 = new UR();
+        public static bool Ur2_Connected;
         private static IModbusMaster Client_2;
         // Serial
         private SerialPort _serialPort1;
         private SerialPort _serialPort2;
-        private bool isSerialPort1Initialized = false;
-        private bool isSerialPort2Initialized = false;
+        public static bool isSerialPort1Initialized = false;
+        public static bool isSerialPort2Initialized = false;
         //Socket
-        public bool ConnectSocket = false;
+        public static bool ConnectSocket = false;
         private bool IsSendmac = false;
         SocketIO socket;
         //
-        IPLC plc = new IPLC();
+        PLC plc = new PLC();
+        //
+        Log log = new Log();
+        private int Flag_Er = 0;
+        private bool flag_Send_QR1 = false;
+        private bool flag_Send_QR2 = false;
         public MainWindow()
         {
             InitializeComponent();
@@ -77,7 +92,7 @@ namespace Conv_TF_UI
             Socket_Thread.Start();
             UpdateScreen_Thread.Start();
             //
-            
+
         }
         private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
@@ -120,9 +135,52 @@ namespace Conv_TF_UI
                 {
                     using (TcpClient tcpClient = new TcpClient())
                     {
+                        Ur1_Connected = Ur1.isConnect;
                         Ur1.Connect_Ur(Common.IP_Robot_1, Common.Port_Robot_1, tcpClient, out Client_1);
-                        Data.Ur1 = Ur1.Data(Ur1.isConnect, Client_1, 200, 4);
+                        Data.Ur1 = Ur1.Data(Ur1.isConnect, Client_1, 200, 4, ushort.Parse(IPLC.Codition_RB1.ToString()));
+                        if (Data.Ur1.Mode_Product != Mode_Run_1_Temp && PLC.Isconnect == true && Ur1.isConnect == true)
+                        {
+                            if (Data.Ur1.Mode_Product == 2)
+                            {
+                                var data = new Dictionary<string, object>
+                                    {
+                                        { "Mode_Run_1", 1 }
+                                    };
+                                string jsonData = JsonConvert.SerializeObject(data);
+                                plc.Write(jsonData);
+                            }
+                            else
+                            {
+                                var data = new Dictionary<string, object>
+                                    {
+                                        { "Mode_Run_1", 0 }
+                                    };
+                                string jsonData = JsonConvert.SerializeObject(data);
+                                plc.Write(jsonData);
+                            }
+                            Mode_Run_1_Temp = Data.Ur1.Mode_Product;
+                        }
+                        else
+                        {
+                            Mode_Run_1_Temp = 2011;
+                        }
+                        if (Data.Ur1.Ur_Control != Ur1_Control_Temp && PLC.Isconnect == true && Ur1.isConnect == true)
+                        {
+                            var data = new Dictionary<string, object>
+                                    {
+                                        { "Ur_Control_1", Data.Ur1.Ur_Control }
+                                    };
+                            string jsonData = JsonConvert.SerializeObject(data);
+                            plc.Write(jsonData);
+                            Ur1_Control_Temp = Data.Ur1.Ur_Control;
+                        }
+                        else
+                        {
+                            Ur1_Control_Temp = 2011;
+                        }
+                        if (IPLC.Ur_Control_1 != 0) Client_1.WriteSingleRegister(1, 200, 0);
                     }
+                    Thread.Sleep(100);
                 }
                 catch
                 {
@@ -138,9 +196,11 @@ namespace Conv_TF_UI
                 {
                     using (TcpClient tcpClient = new TcpClient())
                     {
+                        Ur2_Connected = Ur2.isConnect;
                         Ur2.Connect_Ur(Common.IP_Robot_2, Common.Port_Robot_2, tcpClient, out Client_2);
-                        Data.Ur2 = Ur2.Data(Ur2.isConnect, Client_2, 200, 4);
+                        Data.Ur2 = Ur2.Data(Ur2.isConnect, Client_2, 200, 4, ushort.Parse(IPLC.Codition_RB1.ToString()));
                     }
+                    Thread.Sleep(100);
                 }
                 catch
                 {
@@ -179,12 +239,12 @@ namespace Conv_TF_UI
                             Common.DataQR1 = _serialPort1.ReadExisting().Replace("\r", "").Replace("\n", "");
                         }
                     }
-                    Thread.Sleep(500);
                 }
                 catch
                 {
                     isSerialPort1Initialized = false;
                 }
+                Thread.Sleep(1);
             }
         }
         private void Qr_2()
@@ -217,13 +277,13 @@ namespace Conv_TF_UI
                         {
                             Common.DataQR2 = _serialPort2.ReadExisting().Replace("\r", "").Replace("\n", "");
                         }
-                        Thread.Sleep(500);
                     }
                 }
                 catch
                 {
                     isSerialPort2Initialized = false;
                 }
+                Thread.Sleep(1);
             }
         }
         private async void Socket_()
@@ -232,6 +292,8 @@ namespace Conv_TF_UI
             {
                 try
                 {
+                    if (IPLC.X[21] == false) flag_Send_QR1 = false;
+                    if (IPLC.X[39] == false) flag_Send_QR2 = false;
                     if (!ConnectSocket)
                     {
                         string host_socket;
@@ -242,6 +304,7 @@ namespace Conv_TF_UI
                     }
                     else
                     {
+
                         if (IsSendmac == false)
                         {
                             var mac = new
@@ -256,36 +319,36 @@ namespace Conv_TF_UI
                         {
                             ConnectSocket = true;
                         };
-
                         socket.OnDisconnected += (eventSender, eventArgs) =>
                         {
                             ConnectSocket = false;
                             IsSendmac = false;
                         };
-                        if (Common.DataQR1 != Common.DataQR1_)
+                        if (Common.DataQR1 != Common.DataQR1_ && Common.DataQR1.Length >= 6 && Common.DataQR1.Length < 10 && flag_Send_QR1 == false && IPLC.X[21] == true)
                         {
                             var data = new
                             {
                                 mac = Common.GetMacAddress(),
-                                ip = Common.IP_Robot_1,
+                                ip = Common.ID_Robot_1,
                                 box_id = Common.DataQR1,
                             };
                             await socket.EmitAsync("box-running", data);
                             Common.DataQR1_ = Common.DataQR1;
+                            flag_Send_QR1 = true;
                         }
-                        if (Common.DataQR2 != Common.DataQR2_)
+                        if (Common.DataQR2 != Common.DataQR2_ && Common.DataQR2.Length >= 5 && Common.DataQR2.Length < 10 && flag_Send_QR2 == false && IPLC.X[39] == true)
                         {
                             var data = new
                             {
                                 mac = Common.GetMacAddress(),
-                                ip = Common.IP_Robot_2,
+                                ip = Common.ID_Robot_2,
                                 box_id = Common.DataQR2,
                             };
                             await socket.EmitAsync("box-running", data);
                             Common.DataQR2_ = Common.DataQR2;
+                            flag_Send_QR2 = true;
                         }
                     }
-
                 }
                 catch
                 {
@@ -299,18 +362,39 @@ namespace Conv_TF_UI
         {
             while (!stopThread)
             {
-
+                if (IPLC.List_Error > 0)
+                {
+                    Flag_Er++;
+                    if (Flag_Er == 1)
+                    {
+                        DateTime dateTime = DateTime.Now;
+                        string formattedDate_ = dateTime.ToString("dd/MM/yyyy HH:mm:ss");
+                        string json_ = File.ReadAllText(Common.PathList_Error);
+                        string[] errorArray = json_.Split(new[] { "\n" }, StringSplitOptions.RemoveEmptyEntries);
+                        string json = File.ReadAllText(Common.PathHistory);
+                        json = json.Remove(json.Length - 1);
+                        json = json + "," + "{\"Content_\": " + "\"" + errorArray[IPLC.List_Error - 1].Replace("\r", "").Replace("\n", "") + "\"," + "\"Time\": " + "\"" + formattedDate_ + "\"}" + "]";
+                        File.WriteAllText(Common.PathHistory, json);
+                    }
+                }
+                else
+                {
+                    Flag_Er = 0;
+                }
+                
                 Dispatcher.Invoke(() =>
                 {
-                    if (IPLC.Reset_Error == 1) bt_Reset.Background = new SolidColorBrush(Color.FromRgb(255, 255, 0));
-                    else bt_Reset.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
+                    Ud.bt_Blue(bt_Reset, IPLC.Reset_Error, false);
                     DateTime dateTime = DateTime.Now;
                     string formattedDate = dateTime.ToString("dd/MM/yyyy");
-                    lb_DayNow.Content = formattedDate;
                     string formattedtime = dateTime.ToString("HH:mm:ss");
-                    lb_Timenow.Content = formattedtime;
+                    lb_DayNow.Content = formattedDate + " " + formattedtime;
+                    if (IPLC.S_AM == true) lb_S_AM.Content = "Tự Động";
+                    else lb_S_AM.Content = "Bằng Tay";
                 });
-                Thread.Sleep(200);
+                
+                Thread.Sleep(500);
+
             }
         }
         private void Auto_Click(object sender, RoutedEventArgs e)
@@ -335,7 +419,12 @@ namespace Conv_TF_UI
         }
         private void Reset_Click(object sender, RoutedEventArgs e)
         {
-            IPLC.Reset_Error = 1;
+            var data = new Dictionary<string, object>
+                        {
+                            { "Reset_Error", true }
+                        };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
         private void History_Click(object sender, RoutedEventArgs e)
         {
@@ -363,6 +452,9 @@ namespace Conv_TF_UI
             bt_Setting.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
             bt_Auto.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
             bt_Manu.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
+            bt_History.Background = new SolidColorBrush(Color.FromRgb(255, 255, 255));
+            Pannel_Monitor.Children.Clear();
+            Pannel_Monitor.Children.Add(Gpio_Screen);
         }
 
         private void bt_Quit_Click(object sender, RoutedEventArgs e)

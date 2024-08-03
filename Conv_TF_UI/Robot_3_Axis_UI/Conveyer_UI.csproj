@@ -104,11 +104,13 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Class\Common.cs" />
-    <Compile Include="Class\IPLC.cs" />
+    <Compile Include="Class\PLC.cs" />
     <Compile Include="Class\Items_Error.cs" />
-    <Compile Include="Class\Log_History.cs" />
-    <Compile Include="Class\Path.cs" />
+    <Compile Include="Class\Log.cs" />
     <Compile Include="Class\UR.cs" />
+    <Compile Include="GPIO.xaml.cs">
+      <DependentUpon>GPIO.xaml</DependentUpon>
+    </Compile>
     <Compile Include="M_Cum1.xaml.cs">
       <DependentUpon>M_Cum1.xaml</DependentUpon>
     </Compile>
@@ -127,6 +129,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Button_Style.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GPIO.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

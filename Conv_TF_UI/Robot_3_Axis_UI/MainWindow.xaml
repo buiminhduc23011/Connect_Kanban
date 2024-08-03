@@ -35,7 +35,7 @@
                         <StackPanel Orientation="Horizontal">
                             <Grid Margin="50,0,0,0"
                                   Height="70"
-                                  Width="770">
+                                  Width="700">
                                 <Label
                                     Content="Băng Tải Chuyển Thùng"
                                        Foreground="Black"
@@ -49,7 +49,7 @@
                             <Grid HorizontalAlignment="Center"
                                   VerticalAlignment="Center">
                                 <StackPanel>
-                                    <Label Content="18/05/2023"
+                                    <Label Content="18/05/2023 20:11:30"
                                            x:Name="lb_DayNow"
                                            Foreground="Black"
                                            FontSize="15"
@@ -57,14 +57,15 @@
                                            FontWeight="Bold"
                                            FontFamily="Source Sans Pro"
                                            HorizontalAlignment="Left"></Label>
-                                    <Label Content="07:38:58"
-                                           x:Name="lb_Timenow"
-                                           Foreground="Black"
-                                           FontSize="15"
-                                           FontStyle="Normal"
-                                           FontWeight="Bold"
-                                           FontFamily="Source Sans Pro"
-                                           HorizontalAlignment="Left"></Label>
+
+                                    <Label Content="Không Xác Định"
+       x:Name="lb_S_AM"
+       Foreground="Black"
+       FontSize="18"
+       FontStyle="Normal"
+       FontWeight="Bold"
+       FontFamily="Source Sans Pro"
+       HorizontalAlignment="Left"></Label>
                                 </StackPanel>
                             </Grid>
                         </StackPanel>

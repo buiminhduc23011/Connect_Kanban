@@ -1,4 +1,6 @@
-﻿using MaterialDesignThemes.Wpf;
+﻿using Conv_TF_UI.Class;
+using MaterialDesignThemes.Wpf;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
@@ -23,9 +25,14 @@ namespace Conv_TF_UI
     /// <summary>
     /// Interaction logic for History_Log_Screen.xaml
     /// </summary>
+    /// 
+    public class Items_Error_ReFill
+    {
+        public string Content_ { get; set; }
+        public string Time { get; set; }
+    }
     public partial class History_Log_Screen : UserControl
     {
-        Path path = new Path();
         private DispatcherTimer timer;
         public History_Log_Screen()
         {
@@ -45,10 +52,11 @@ namespace Conv_TF_UI
             timer.Tick += Timer_Tick;
             timer.Start();
             List<Items_Error> items = new List<Items_Error>();
+            List<Items_Error_ReFill> refill = new List<Items_Error_ReFill>();
             int index = 1;
             try
             {
-                string List_Show = File.ReadAllText(path.History);
+                string List_Show = File.ReadAllText(Common.PathHistory);
                 if (List_Show.Length > 0)
                 {
                     JArray List_Show_array = JArray.Parse(List_Show);
@@ -59,12 +67,17 @@ namespace Conv_TF_UI
                     }
                     // Đảo ngược danh sách items
                     items.Reverse();
-
-                    // Cập nhật lại giá trị thuộc tính STT của từng đối tượng
                     for (int i = 0; i < items.Count; i++)
                     {
                         items[i].STT = i + 1;
+                        if (i < 1000)
+                        {
+                            refill.Add(new Items_Error_ReFill { Content_ = items[i].Content_, Time = items[i].Time });
+                        }
                     }
+                    refill.Reverse();
+                    string json = JsonConvert.SerializeObject(refill);
+                    File.WriteAllText(Common.PathHistory, json);
                     List_Error.ItemsSource = items;
                 }
 
@@ -74,7 +87,7 @@ namespace Conv_TF_UI
         }
         private void Timer_Tick(object sender, EventArgs e)
         {
-            if (IPLC.Error > 0)
+            if (IPLC.List_Error > 0)
             {
                 LoadItems();
             }
@@ -86,7 +99,7 @@ namespace Conv_TF_UI
             int index = 1;
             try
             {
-                string List_Show = File.ReadAllText(path.History);
+                string List_Show = File.ReadAllText(Common.PathHistory);
                 if (List_Show.Length > 0)
                 {
                     JArray List_Show_array = JArray.Parse(List_Show);

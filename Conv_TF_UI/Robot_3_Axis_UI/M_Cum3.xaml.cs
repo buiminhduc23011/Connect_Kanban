@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -24,6 +25,7 @@ namespace Conv_TF_UI
     {
         Update_Screen update = new Update_Screen();
         private DispatcherTimer timer;
+        PLC plc = new PLC();
         public M_Cum3()
         {
             InitializeComponent();
@@ -58,103 +60,79 @@ namespace Conv_TF_UI
         }
         void Update_Screen()
         {
-            // Gán giá trị cho D5 và IPLC.D5
-            update.bt_Green(D5_0, IPLC.D5_0);
-            update.bt_Green(D5_1, IPLC.D5_1);
-            update.bt_Green(D5_2, IPLC.D5_2);
-            update.bt_Green(D5_3, IPLC.D5_3);
-            update.bt_Green(D5_4, IPLC.D5_4);
-            update.bt_Green(D5_5, IPLC.D5_5);
-            update.bt_Green(D5_6, IPLC.D5_6);
-            update.bt_Green(D5_7, IPLC.D5_7);
-            update.bt_Green(D5_8, IPLC.D5_8);
+            // Gán giá trị cho D5 và IIPLC.D5
+            update.bt_Blue(D5_0, IPLC.M640,false);
+            update.bt_Blue(D5_1, IPLC.M641,false);
+            update.bt_Blue(D5_2, IPLC.M642,false);
+            update.bt_Blue(D5_3, IPLC.M643,false);
+            update.bt_Blue(D5_4, IPLC.M644, false);
+            update.bt_Blue(D5_5, IPLC.M645, false);
+            update.bt_Blue(D5_6, IPLC.M646, false);
+            update.bt_Blue(D5_7, IPLC.M647, false);
+            update.bt_Blue(D5_8, IPLC.M648, false);
         }
 
         private void D5_0_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D5_0) IPLC.D5[0] = false;
-            else
-            {
-                IPLC.D5[0] = true;
-            }
+            var data = new Dictionary<string, object> { { "M640", !IPLC.M640 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D5_1_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D5_1) IPLC.D5[1] = false;
-            else
-            {
-                IPLC.D5[1] = true;
-                IPLC.D5[2] = false;
-            }
+            var data = new Dictionary<string, object> { { "M641", !IPLC.M641 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D5_2_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D5_2) IPLC.D5[2] = false;
-            else
-            {
-                IPLC.D5[2] = true;
-                IPLC.D5[1] = false;
-            }
+            var data = new Dictionary<string, object> { { "M642", !IPLC.M642 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D5_3_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D5_3) IPLC.D5[3] = false;
-            else
-            {
-                IPLC.D5[3] = true;
-            }
+            var data = new Dictionary<string, object> { { "M643", !IPLC.M643 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D5_4_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D5_4) IPLC.D5[4] = false;
-            else
-            {
-                IPLC.D5[4] = true;
-            }
+            var data = new Dictionary<string, object> { { "M644", !IPLC.M644 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D5_5_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D5_5) IPLC.D5[5] = false;
-            else
-            {
-                IPLC.D5[5] = true;
-                IPLC.D5[6] = false;
-            }
+            var data = new Dictionary<string, object> { { "M645", !IPLC.M645 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D5_6_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D5_6) IPLC.D5[6] = false;
-            else
-            {
-                IPLC.D5[6] = true;
-                IPLC.D5[5] = false;
-            }
+            var data = new Dictionary<string, object> { { "M646", !IPLC.M646 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D5_7_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D5_7) IPLC.D5[7] = false;
-            else
-            {
-                IPLC.D5[7] = true;
-                IPLC.D5[8] = false;
-            }
+            var data = new Dictionary<string, object> { { "M647", !IPLC.M647 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
 
         private void D5_8_Click(object sender, RoutedEventArgs e)
         {
-            if (IPLC.D5_8) IPLC.D5[8] = false;
-            else
-            {
-                IPLC.D5[8] = true;
-                IPLC.D5[7] = false;
-            }
+            var data = new Dictionary<string, object> { { "M648", !IPLC.M648 } };
+            string jsonData = JsonConvert.SerializeObject(data);
+            plc.Write(jsonData);
         }
     }
 }
