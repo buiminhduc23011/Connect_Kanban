@@ -1,0 +1,35 @@
+# ===== Build artifacts =====
+[Bb]in/
+[Oo]bj/
+*.rar
+*.log
+
+# ===== Visual Studio =====
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsidx
+
+# ===== VS Code =====
+.vscode/
+
+# ===== NuGet =====
+packages/
+*.nupkg
+
+# ===== Node.js =====
+node_modules/
+
+# ===== Runtime data (không commit dữ liệu chạy thật) =====
+Machine_Data.json
+History.json
+List_Error.ini
+scnn.ini
+BoxC1.log
+BoxC2.log
+
+# ===== OS junk =====
+Thumbs.db
+desktop.ini
